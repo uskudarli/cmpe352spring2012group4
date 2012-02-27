@@ -1,13 +1,10 @@
-#summary One-sentence summary of this page.
+= About me =
 
-= Introduction =
+I am a junior student at CMPE. I want to be an engineer since my childhood and my dream came true. However I don't like theoretical courses.  Now I am interested in JavaEE and sometimes write Android code.
 
-Add your content here.
+=Contact Information=
 
 
-= Details =
+My Primary E-Mail : semihaklar@gmail.com
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+My Secondary E-Mail : semih.aklar@boun.edu.tr
