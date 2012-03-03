@@ -5,7 +5,7 @@
 *One defective feature* I realize in the *signup process* is that it *does not check to validate* my real identity. I used my hotmail account with *fake name and surname* to sign up and the site *did not complain*. If the site targets the *academic people*, it can use e-mail accounts with *.edu* extension in the *signup process*.
 
 
-They [http://academia.edu/hiring/software_engineer post] *the technology they use*. Some of them are:
+They [http://academia.edu/hiring/software_engineer posted] *the technology they use*. Some of them are:
 
 *Css
 
