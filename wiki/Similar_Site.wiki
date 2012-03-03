@@ -1,4 +1,4 @@
-#Similar site: [http://www.academia.edu/ academia.edu].
+#similar site: [http://www.academia.edu/ academia.edu].
 
 
 [http://www.academia.edu/ academia.edu] is similar to our project. It is *not belonging to* a specific university or a department *as opposed to* our project description (i.e _"... *CMPE* community can express..."_). There are many universities all over the world.
