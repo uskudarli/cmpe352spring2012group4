@@ -30,19 +30,26 @@ It is similar to our project *since* a company email address *must be validated*
 
 More information about features of the website: [http://en.wikipedia.org/wiki/Yammer]
 
-Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-Implementation-Engineer-2435654] _by Ayşegül Sarı_
+Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-Implementation-Engineer-2435654]
+_by Ayşegül Sarı_
 
 ----
 
-  * [http://www.researchgate.net/ researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ academia.edu]. However interests are restricted to *scientific topics*. _by Semih Aklar_
+  * [http://www.researchgate.net/ researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ academia.edu]. However interests are restricted to *scientific topics*.
+_by Semih Aklar_
 
 -----
 
   * [http://fledgewing.com/ FledgeWing] - Entrepreneural community targeted towards worldwide university students
   * [http://www.deviantart.com/ deviantART] - Art community
   * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit.
-  * [http://www.dxy.cn/ DXY.cn]	Chinese online community for physicians, health care professionals, pharmacies and facilities
-  * [http://www.linkedin.com/ Linkedin] - Business and professional networking
+
+This project can be taken as an example while building the search section of our application. Searching filters in this site are very clear and convenient.
+
+  * [http://www.linkedin.com/ LinkedIn] - Business and professional networking
+
+LinkedIn is a widely used platform which is similar to our project, because it can also be considered academic. There is a "jobs" section on this site. Since CMPE gathers people from the same department, job opportunities and announcements can be shared within this section if we add it as a requirement in our project.
+
 _by Gül Varol, Başak Çaprak_
 -----
 
