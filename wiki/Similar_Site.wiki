@@ -41,7 +41,7 @@ _by Tuncay Demir, Semih Aklar_
 
   * [https://www.yammer.com/ Yammer] - an *enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups.
 
-It is similar to our project *since* a company email address *must be validated* in order to register the website. It is also similar in the way that it *supports android and smartphone* usage. 
+It is similar to our project since a company email address *must be validated* in order to register the website. It is also similar in the way that it *supports android and smartphone* usage. 
 
 More information about features of the website: [http://en.wikipedia.org/wiki/Yammer]
 
@@ -52,11 +52,17 @@ _by Ayşegül Sarı_
 ----
 
   * [http://www.researchgate.net/ Researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ Academia.edu]. However interests are restricted to *scientific topics*.
-  * This site is very similar to the site that we are going to create. Every member has his or her *profile*. While creating their own profile, everyone emphasizes their own interests. In this site the interests are limited to the academic topics so that all of the members are researchers teachers and students. On the other hand, in our web site social interests are included too. So this is one of the disadvantages of this site. 
-  * [http://www.researchgate.net/ Researchgate.net] allows its members to create *groups* according to your interest. In this site members can also subscribe to some topics so that they are informed anything new via email. 
-  * *Searching* in this site is also good organized. However you must decide the topic you want to search in after you search. So advanced search is not efficient.
-  * Interface of this site is good designed. It is both good designed and simple. *Usibility* of the site is very high.
-  * One of the most important disadvantages of this site is that there does not exist not only a *mobile application* but also mobile version of this site. Therefore, usibility of this site in a mobile phone is very low.
+
+This site is very similar to the site that we are going to create. Every member has his or her *profile*. While creating their own profile, everyone emphasizes their own interests. In this site the interests are limited to the academic topics so that all of the members are researchers teachers and students. On the other hand, in our web site social interests are included too. So this is one of the disadvantages of this site. 
+
+[http://www.researchgate.net/ Researchgate.net] allows its members to create *groups* according to your interest. In this site members can also subscribe to some topics so that they are informed anything new via email. 
+
+*Searching* in this site is also good organized. However you must decide the topic you want to search in after you search. So advanced search is not efficient.
+
+Interface of this site is good designed. It is both good designed and simple. *Usibility* of the site is very high.
+
+One of the most important disadvantages of this site is that there does not exist not only a *mobile application* but also mobile version of this site. Therefore, usibility of this site in a mobile phone is very low.
+
 _by Semih Aklar, Enes Faruk Öter_
 
 -----
