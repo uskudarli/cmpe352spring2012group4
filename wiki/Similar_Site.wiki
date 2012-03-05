@@ -35,9 +35,9 @@ _by Tuncay Demir, Semih Aklar_
 
 ----
 
-  * [https://www.yammer.com/ Yammer] - an *enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups.
+  * [https://www.yammer.com/ Yammer] - *Enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups
 
-It is similar to our project *since* a company email address *must be validated* in order to register the website. It is also similar in the way that it *supports android and smartphone* usage. 
+It is similar to our project since a company email address *must be validated* in order to register the website. It is also similar in the way that it *supports android and smartphone* usage. 
 
 More information about features of the website: [http://en.wikipedia.org/wiki/Yammer]
 
@@ -47,7 +47,9 @@ _by Ayşegül Sarı_
 
 ----
 
-  * [http://www.researchgate.net/ Researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ Academia.edu]. However interests are restricted to *scientific topics*.
+  * [http://www.researchgate.net/ Researchgate.net] - Network dedicated to science and research where it is possible to connect, collaborate and discover scientific publications, jobs and conferences
+
+The project is similar to ours; however, interests are restricted to *scientific topics*.
 _by Semih Aklar_
 
 -----
