@@ -43,4 +43,16 @@ Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-I
 ----
 
 •[http://www.researchgate.net/ researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ academia.edu]. However interests are restricted to *scientific topics*. _by Semih Aklar_
+
+
+-----
+== Useful Links ==
+  * [http://www.uie.com/articles/common_pitfalls_social_webapps/ Common Pitfalls of Building Social Web Applications]
+  * [http://www.slideshare.net/lukew/social-web-application-design Social Web Application Design]
+
+  * [http://fledgewing.com/ FledgeWing] - Entrepreneural community targeted towards worldwide university students
+  * [http://www.deviantart.com/ deviantART] - Art community
+  * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit.
+  * [http://www.dxy.cn/ DXY.cn]	Chinese online community for physicians, health care professionals, pharmacies and facilities
+  * [http://www.linkedin.com/ Linkedin] - Business and professional networking
  
