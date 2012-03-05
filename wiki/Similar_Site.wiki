@@ -48,7 +48,7 @@ Besides, it is *not* providing enough storage space to its *Free members*<br>
 It's user interface is *not* very well-designed and hard to use for the first usages<br>
 
 <br>
-Additionally, fotki uses JavaScript, XML,ActiveX,FTP technologies.<br><>br
+Additionally, fotki uses JavaScript , XML ,ActiveX and FTP technologies.<br><>br
 ----
 
   * [https://www.yammer.com/ Yammer] - *Enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups
