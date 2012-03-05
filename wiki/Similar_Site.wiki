@@ -50,6 +50,7 @@ _by Ayşegül Sarı_
   * [http://www.researchgate.net/ Researchgate.net] - Network dedicated to science and research where it is possible to connect, collaborate and discover scientific publications, jobs and conferences
 
 The project is similar to ours; however, interests are restricted to *scientific topics*.
+
 _by Semih Aklar_
 
 -----
