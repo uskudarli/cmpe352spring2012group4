@@ -1,23 +1,4 @@
-=Some Definitions=
-
-*Social Networking Service:*
-An online service, platform, or site that focuses on building and reflecting of social networks or social relations among people, who, for example, share interests and/or activities.
-
-*Online Community:*
-An online community is a virtual community that exists online and whose members enable its existence through taking part in membership ritual. An online community can take the form of an information system where anyone can post content.
-
-*Member Profile:*
-A collection of personal data associated to a specific user.
-
------
-
 =Similar Sites=
-
-[http://en.wikipedia.org/wiki/List_of_social_networking_websites Here] is a big list of social networking sites with their brief descriptions. Below, we selected some examples to examine their similarities and differences with our project.
-
-_by Hakan Güldaş_
-
------
 
   * [http://www.academia.edu/ Academia.edu] is similar to our project. It is *not belonging to* a specific university or a department *as opposed to* our project description (i.e _"... *CMPE* community can express..."_). There are many universities all over the world.
 
@@ -39,29 +20,13 @@ They [http://academia.edu/hiring/software_engineer posted] *the technology they 
   * Solr
   * AWS
 
-_by Semih Aklar_
+_by Tuncay Demir, Semih Aklar_
 
 ----
 
-  * *fotki.com*
+  * [https://www.yammer.com/ Yammer] - an *enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups.
 
-These are the properties that [http://www.fotki.com/ fotki.com] website provides to its users<br><br>
--Members can create their own profile pages and provide information as much as they want by the *privacy settings*.<br>
--Fotki users can share their *photos* and *videos*.<br>
--Fotki users can create *blogs* and *forums*.<br>
--Fotki e-mail system features a spam filter with 20 levels of sensitivity.<br>
--It provides *search options*.<br> <br>
-However , the most popular property about this networking site is *digital photo sharing* and it provides an *unlimited storage* space only for the *Premium Account Holders*.<br>
-Besides, it is *not* providing enough storage space to its *Free members*<br>
-It's user interface is *not* very well-designed and hard to use for the first usages<br>
-
-<br>
-Additionally, fotki uses JavaScript , XML ,ActiveX and FTP technologies.<br><br>
-----
-
-  * [https://www.yammer.com/ Yammer] - *Enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups
-
-It is similar to our project since a company email address *must be validated* in order to register the website. It is also similar in the way that it *supports android and smartphone* usage. 
+It is similar to our project *since* a company email address *must be validated* in order to register the website. It is also similar in the way that it *supports android and smartphone* usage. 
 
 More information about features of the website: [http://en.wikipedia.org/wiki/Yammer]
 
@@ -71,19 +36,18 @@ _by Ayşegül Sarı_
 
 ----
 
-  * [http://www.researchgate.net/ Researchgate.net] - Network dedicated to science and research where it is possible to connect, collaborate and discover scientific publications, jobs and conferences
-
-The project is similar to ours; however, interests are restricted to *scientific topics*.
-
-_by Semih Aklar_
+  * [http://www.researchgate.net/ Researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ Academia.edu]. However interests are restricted to *scientific topics*.
+  * This site is very similar to the site that we are going to create. Every member has his or her *profile*. While creating their own profile, everyone emphasizes their own interests. In this site the interests are limited to the academic topics so that all of the members are researchers teachers and students. On the other hand, in our web site social interests are included too. So this is one of the disadvantages of this site. 
+  * [http://www.researchgate.net/ Researchgate.net] allows its members to create *groups* according to your interest. In this site members can also subscribe to some topics so that they are informed anything new via email. 
+  * *Searching* in this site is also good organized. However you must decide the topic you want to search in after you search. So advanced search is not efficient.
+  * Interface of this site is good designed. It is both good designed and simple. *Usibility* of the site is very high.
+  * One of the most important disadvantages of this site is that there does not exist not only a *mobile application* but also mobile version of this site. Therefore, usibility of this site in a mobile phone is very low.
+_by Semih Aklar, Enes Faruk Öter_
 
 -----
 
   * [http://fledgewing.com/ FledgeWing] - Entrepreneural community targeted towards worldwide university students
-
-  * [http://www.deviantart.com/ deviantART] - The largest online social network for artists and art enthusiasts
-With over 19 million registered members, attractes 45 million unique visitors per month.
-
+  * [http://www.deviantart.com/ deviantART] - Art community
   * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit.
 
 This project can be taken as an example while building the search section of our application. *Searching filters* in this site are very clear and convenient.
@@ -95,8 +59,8 @@ Linkedin is a widely used platform which is similar to our project, because it c
 _by Gül Varol, Başak Çaprak_
 -----
 
-  * [https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
-
+[http://en.wikipedia.org/wiki/List_of_social_networking_websites Here] is a big list of social networking sites with their brief descriptions(probably most of you have found it but I put it here anyway).
+[https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
 _by Hakan Guldas
 -----
 
