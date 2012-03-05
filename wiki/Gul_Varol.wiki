@@ -1,3 +1,4 @@
+#labels PersonalInfo
 = Introduction =
 
 I am a junior computer engineering student, happy to be present at this department. Having spent Fall2011 semester in Ecole Centrale Paris as an exchange student, I am trying to adapt back to the busy educational schedule in Bogazici.
