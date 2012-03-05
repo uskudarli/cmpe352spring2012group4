@@ -39,7 +39,7 @@ They [http://academia.edu/hiring/software_engineer posted] *the technology they 
   * Solr
   * AWS
 
-_by Tuncay Demir, Semih Aklar_
+_by Semih Aklar_
 
 ----
 
