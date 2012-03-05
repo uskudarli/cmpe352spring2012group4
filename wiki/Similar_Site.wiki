@@ -80,7 +80,10 @@ _by Semih Aklar_
 -----
 
   * [http://fledgewing.com/ FledgeWing] - Entrepreneural community targeted towards worldwide university students
-  * [http://www.deviantart.com/ deviantART] - Art community
+
+  * [http://www.deviantart.com/ deviantART] - The largest online social network for artists and art enthusiasts
+With over 19 million registered members, attractes 45 million unique visitors per month.
+
   * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit.
 
 This project can be taken as an example while building the search section of our application. *Searching filters* in this site are very clear and convenient.
