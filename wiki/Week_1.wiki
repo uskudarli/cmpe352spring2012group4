@@ -1,13 +1,14 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Participants =
 
-Add your content here.
+Başak, Gül, Ayşegül, Hakan, Sabri
 
 
-= Details =
+= Summary =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+- We decided to have a Facebook group page to arrange our weekly meetings and to communicate.
+
+- We created a common wiki page in which each one of us will add an example about our project.
+
+- We decided on the organization of the home page. (i.e. keeping weekly summaries of meetings secret)
