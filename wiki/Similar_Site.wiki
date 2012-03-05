@@ -54,7 +54,9 @@ _by Ayşegül Sarı_
 
 ----
 
-  * [http://www.researchgate.net/ Researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ Academia.edu]. However interests are restricted to *scientific topics*.
+  * [http://www.researchgate.net/ Researchgate.net] - Network dedicated to science and research where it is possible to connect, collaborate and discover scientific publications, jobs and conferences
+
+The project is similar to ours; however, interests are restricted to *scientific topics.*
 
 This site is very similar to the site that we are going to create. Every member has his or her *profile*. While creating their own profile, everyone emphasizes their own interests. In this site the interests are limited to the academic topics so that all of the members are researchers teachers and students. On the other hand, in our web site social interests are included too. So this is one of the disadvantages of this site. 
 
