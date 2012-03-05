@@ -46,8 +46,8 @@ It is similar to our project since a company email address *must be validated* i
 More information about features of the website: [http://en.wikipedia.org/wiki/Yammer]
 
 Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-Implementation-Engineer-2435654]
-<br>
-<wiki:video url="http://www.youtube.com/watch?v=84eOwKrVry0"/>
+
+<br><wiki:video url="http://www.youtube.com/watch?v=84eOwKrVry0"/> <br>
 <br>
 
 _by Ayşegül Sarı_
