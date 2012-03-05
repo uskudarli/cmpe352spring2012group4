@@ -30,6 +30,7 @@ They [http://academia.edu/hiring/software_engineer posted] *the technology they 
 
 _by Tuncay Demir, Semih Aklar_
 
+----
 
 •[https://www.yammer.com/] is another similar site to our project.It is an *enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups.
 
@@ -39,5 +40,7 @@ More information about features of the website: [http://en.wikipedia.org/wiki/Ya
 
 Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-Implementation-Engineer-2435654] _by Ayşegül Sarı_
 
-•[http://www.researchgate.net/ researchgate] is another similar site.It is *like* [http://www.academia.edu/ academia.edu]. However interests are restricted to *scientific topics*. _by Semih Aklar_
+----
+
+•[http://www.researchgate.net/ researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ academia.edu]. However interests are restricted to *scientific topics*. _by Semih Aklar_
  
