@@ -1,5 +1,10 @@
 #summary One-sentence summary of this page.
 
+= Date =
+
+05.03.2012
+17:00
+
 = Participants =
 
 Başak, Gül, Ayşegül, Hakan, Sabri
