@@ -29,5 +29,5 @@ They [http://academia.edu/hiring/software_engineer posted] *the technology they 
 *AWS by Tuncay Demir
 
 •[https://www.yammer.com/] is another similar sites to our project.It is an enterprise social network service used for private communication within organizations or between organizati.onal members and pre-designated groups.
- It is similar to our project since a company email address must be validated in order to register the website.It is also similar in the way that it supports android and smartphone usage. 
+It is similar to our project since a company email address must be validated in order to register the website.It is also similar in the way that it supports android and smartphone usage. 
  
