@@ -1,6 +1,8 @@
 =Some Definitions=
 *Social Networking Service:* An online service, platform, or site that focuses on building and reflecting of social networks or social relations among people, who, for example, share interests and/or activities.
+
 *Online Community:* An online community is a virtual community that exists online and whose members enable its existence through taking part in membership ritual. An online community can take the form of an information system where anyone can post content.
+
 *Member Profile:* A collection of personal data associated to a specific user.
 
 =Similar Sites=
