@@ -26,7 +26,7 @@ They [http://academia.edu/hiring/software_engineer posted] *the technology they 
 
 *Solr
 
-*AWS by Tuncay Demir
+*AWS _by Tuncay Demir_
 
 •[https://www.yammer.com/] is another similar sites to our project.It is an enterprise social network service used for private communication within organizations or between organizational members and pre-designated groups.
 
@@ -34,5 +34,5 @@ It is similar to our project since a company email address must be validated in 
 
 More information about features of the website: [http://en.wikipedia.org/wiki/Yammer]
 
-Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-Implementation-Engineer-2435654]
+Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-Implementation-Engineer-2435654] _by Ayşegül Sarı_
  
