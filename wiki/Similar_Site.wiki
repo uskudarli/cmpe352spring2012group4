@@ -54,6 +54,12 @@ Linkedin is a widely used platform which is similar to our project, because it c
 _by Gül Varol, Başak Çaprak_
 -----
 
+Here is a big list of social networking sites with their brief descriptions(probably most of you have found it but I put it here anyway).
+[https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
+_by Hakan Guldas
+-----
+
+
 = Useful Links =
   * [http://www.uie.com/articles/common_pitfalls_social_webapps/ Common Pitfalls of Building Social Web Applications]
   * [http://www.slideshare.net/lukew/social-web-application-design Social Web Application Design]
