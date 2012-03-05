@@ -27,3 +27,5 @@ They [http://academia.edu/hiring/software_engineer posted] *the technology they 
 *Solr
 
 *AWS by Tuncay Demir
+
+•[https://www.yammer.com/] is another similar sites to our project.
