@@ -1,5 +1,6 @@
 =Similar Sites=
-•[http://www.academia.edu/ academia.edu] is similar to our project. It is *not belonging to* a specific university or a department *as opposed to* our project description (i.e _"... *CMPE* community can express..."_). There are many universities all over the world.
+
+  * [http://www.academia.edu/ academia.edu] is similar to our project. It is *not belonging to* a specific university or a department *as opposed to* our project description (i.e _"... *CMPE* community can express..."_). There are many universities all over the world.
 
 In this social network site, each member have *Answers* and *Questions* sections on their profiles. Like creating a new forum ,you can ask questions about a specific topic to the other people , and the people interested in this question can *answer* or *follow the question*. By following the question ,you can easily reach the possible answers may be given in the future. Besides ,you can see the *past questions* and *answers related to this topic*.
 
@@ -8,31 +9,22 @@ In this social network site, each member have *Answers* and *Questions* sections
 
 They [http://academia.edu/hiring/software_engineer posted] *the technology they use*. Some of them are:
 
-*Css
-
-*Javascript
-
-*Ruby on Rails
-
-*PostgreSQL
-
-*Redis
-
-*MongoDB
-
-*Varnish
-
-*Memcached
-
-*Solr
-
-*AWS*
+  * Css
+  * Javascript
+  * Ruby on Rails
+  * PostgreSQL
+  * Redis
+  * MongoDB
+  * Varnish
+  * Memcached
+  * Solr
+  * AWS
 
 _by Tuncay Demir, Semih Aklar_
 
 ----
 
-•[https://www.yammer.com/] is another similar site to our project.It is an *enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups.
+  * [https://www.yammer.com/] is another similar site to our project.It is an *enterprise social network service* used for private communication within organizations or between organizational members and pre-designated groups.
 
 It is similar to our project *since* a company email address *must be validated* in order to register the website.It is also similar in the way that it *supports android and smartphone* usage. 
 
@@ -42,10 +34,18 @@ Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-I
 
 ----
 
-•[http://www.researchgate.net/ researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ academia.edu]. However interests are restricted to *scientific topics*. _by Semih Aklar_
-
+  * [http://www.researchgate.net/ researchgate.net] is another similar site.It is *like* [http://www.academia.edu/ academia.edu]. However interests are restricted to *scientific topics*. _by Semih Aklar_
 
 -----
+
+  * [http://fledgewing.com/ FledgeWing] - Entrepreneural community targeted towards worldwide university students
+  * [http://www.deviantart.com/ deviantART] - Art community
+  * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit.
+  * [http://www.dxy.cn/ DXY.cn]	Chinese online community for physicians, health care professionals, pharmacies and facilities
+  * [http://www.linkedin.com/ Linkedin] - Business and professional networking
+
+-----
+
 == Useful Links ==
   * [http://www.uie.com/articles/common_pitfalls_social_webapps/ Common Pitfalls of Building Social Web Applications]
   * [http://www.slideshare.net/lukew/social-web-application-design Social Web Application Design]
