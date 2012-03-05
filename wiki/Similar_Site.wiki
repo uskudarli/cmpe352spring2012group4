@@ -15,7 +15,7 @@ A collection of personal data associated to a specific user.
 
 [http://en.wikipedia.org/wiki/List_of_social_networking_websites Here] is a big list of social networking sites with their brief descriptions. Below, we selected some examples to examine their similarities and differences with our project.
 
-_Hakan Güldaş_
+_by Hakan Güldaş_
 
 -----
 
@@ -43,7 +43,7 @@ _by Tuncay Demir, Semih Aklar_
 
 ----
 
-*fotki.com*
+  * *fotki.com*
 
 These are the properties that [http://www.fotki.com/ fotki.com] website provides to its users<br><br>
 -Members can create their own profile pages and provide information as much as they want by the *privacy settings*.<br>
@@ -95,7 +95,7 @@ Linkedin is a widely used platform which is similar to our project, because it c
 _by Gül Varol, Başak Çaprak_
 -----
 
-[https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
+  * [https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
 
 _by Hakan Guldas
 -----
