@@ -79,7 +79,7 @@ _by Hakan Guldas
 = Useful Links =
   * [http://www.uie.com/articles/common_pitfalls_social_webapps/ Common Pitfalls of Building Social Web Applications]
   * [http://www.slideshare.net/lukew/social-web-application-design Social Web Application Design]
-  * [http://computer.howstuffworks.com/internet/social-networking/information/start-social-networking-site.htm x]
-  * [http://www.techi.com/2010/06/9-steps-to-creating-a-social-networking-site-that-kills-facebook/ y]
+  * [http://computer.howstuffworks.com/internet/social-networking/information/start-social-networking-site.htm How to Start a Social Networking Site]
+  * [http://www.techi.com/2010/06/9-steps-to-creating-a-social-networking-site-that-kills-facebook/ 9 Steps to Creating a Social Networking Site That Kills Facebook]
 _by Gül Varol, Başak Çaprak_
  
