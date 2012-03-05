@@ -48,7 +48,7 @@ This project can be taken as an example while building the search section of our
 
   * [http://www.linkedin.com/ LinkedIn] - Business and professional networking
 
-LinkedIn is a widely used platform which is similar to our project, because it can also be considered academic. There is a "jobs" section on this site. Since CMPE gathers people from the same department, job opportunities and announcements can be shared within this section if we add it as a requirement in our project.
+Linkedin is a widely used platform which is similar to our project, because it can also be considered academic. There is a "jobs" section on this site. Since CMPE gathers people from the same department, job opportunities and announcements can be shared within this section if we add it as a requirement in our project.
 
 _by Gül Varol, Başak Çaprak_
 -----
