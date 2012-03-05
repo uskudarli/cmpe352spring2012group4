@@ -32,5 +32,7 @@ They [http://academia.edu/hiring/software_engineer posted] *the technology they 
 
 It is similar to our project since a company email address must be validated in order to register the website.It is also similar in the way that it supports android and smartphone usage. 
 
-There are more information about features of the website on the following link: [http://en.wikipedia.org/wiki/Yammer]
+More information about features of the website: [http://en.wikipedia.org/wiki/Yammer]
+
+Some information about technology they used: [http://uk.linkedin.com/jobs/jobs-Implementation-Engineer-2435654]
  
