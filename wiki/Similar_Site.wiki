@@ -54,7 +54,7 @@ Linkedin is a widely used platform which is similar to our project, because it c
 _by Gül Varol, Başak Çaprak_
 -----
 
-Here is a big list of social networking sites with their brief descriptions(probably most of you have found it but I put it here anyway).
+[http://en.wikipedia.org/wiki/List_of_social_networking_websites Here] is a big list of social networking sites with their brief descriptions(probably most of you have found it but I put it here anyway).
 [https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
 _by Hakan Guldas
 -----
