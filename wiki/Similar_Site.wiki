@@ -5,6 +5,8 @@
 
 *Member Profile:* A collection of personal data associated to a specific user.
 
+_by Gül Varol, Başak Çaprak_
+
 ----
 
 =Similar Sites=
