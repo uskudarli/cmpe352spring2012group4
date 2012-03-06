@@ -91,6 +91,8 @@ _by Hakan Güldaş
 
 
 = Useful Links =
+
+  * [http://www.socialmedia.biz/images/2007/08/27/social_networking_among_youths.jpg]
   * [http://www.uie.com/articles/common_pitfalls_social_webapps/ Common Pitfalls of Building Social Web Applications]
   * [http://www.slideshare.net/lukew/social-web-application-design Social Web Application Design]
   * [http://computer.howstuffworks.com/internet/social-networking/information/start-social-networking-site.htm How to Start a Social Networking Site]
