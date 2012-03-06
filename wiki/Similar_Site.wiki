@@ -86,7 +86,7 @@ _by Gül Varol, Başak Çaprak_
 -----
 
   * [https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
-_by Hakan Guldas
+_by Hakan Güldaş
 -----
 
 
