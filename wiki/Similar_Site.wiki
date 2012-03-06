@@ -76,15 +76,16 @@ _by Semih Aklar, Enes Faruk Öter_
 
   * [http://fledgewing.com/ FledgeWing] - Entrepreneural community targeted towards worldwide university students
   * [http://www.deviantart.com/ deviantART] - Art community
-  * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit.
+  * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit
 
-This project can be taken as an example while building the search section of our application. *Searching filters* in this site are very clear and convenient.
+This project can be taken as an example while building the search section of our application. *Searching filters* in this site are very clear and convenient. Although there are about 3 million users on this platform, it is possible to make an efficient search to filter this number for a particular purpose.
 
   * [http://www.linkedin.com/ LinkedIn] - Business and professional networking
 
-Linkedin is a widely used platform which is similar to our project, because it can also be considered academic. There is a "jobs" section on this site. Since CMPE gathers people from the same department, *job opportunities* and announcements can be shared within this section if we add it as a requirement in our project.
+Linkedin is a widely used platform (with around 120 million members) which is similar to our project, because it can also be considered academic. There is a "jobs" section on this site. Since CMPE gathers people from the same department, *job opportunities* and announcements can be shared within this section if we add it as a requirement in our project.
 
 _by Gül Varol, Başak Çaprak_
+
 -----
 
   * [https://csc.cdf.toronto.edu/bb/YaBB.pl This] is the forum of undergraduate students of University of Toronto Computer Science department. It might give us an idea about what to focus on considering we are building a CmpE-specific website.
