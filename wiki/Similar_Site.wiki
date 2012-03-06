@@ -15,7 +15,7 @@ _by Hakan Güldaş_
 
 ----
 
-  * [http://www.academia.edu/ Academia.edu] is similar to our project. It is *not belonging to* a specific university or a department *as opposed to* our project description (i.e _"... *CMPE* community can express..."_). There are many universities all over the world.
+  * [http://www.academia.edu/ academia.edu] is similar to our project. It is *not belonging to* a specific university or a department *as opposed to* our project description (i.e _"... *CMPE* community can express..."_). There are many universities all over the world.
 
 In this social network site, each member have *Answers* and *Questions* sections on their profiles. Like creating a new forum ,you can ask questions about a specific topic to the other people , and the people interested in this question can *answer* or *follow the question*. By following the question ,you can easily reach the possible answers may be given in the future. Besides ,you can see the *past questions* and *answers related to this topic*.
 
