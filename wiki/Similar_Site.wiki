@@ -74,8 +74,16 @@ _by Semih Aklar, Enes Faruk Öter_
 
 -----
 
-  * [http://fledgewing.com/ FledgeWing] - Entrepreneural community targeted towards worldwide university students
-  * [http://www.deviantart.com/ deviantART] - Art community
+  * [http://www.deviantart.com/ deviantART] - The largest online social network for artists and art enthusiasts
+
+With over 19 million registered members, attracts 45 million unique visitors per month. DeviantART is a platform that allows emerging and established artists to exhibit, promote, and share their works within a peer community dedicated to the arts. The site's vibrant social network environment receives over 100,000 daily uploads of original art works ranging from traditional media, such as painting and sculpture, to digital art, pixel art, films and anime.
+
+Creating groups according to the topics that are chosen by users makes the webpage very effective. Users can join the groups they are interested in and they can receive instant messages from them, therefore, users are not disturbed with unnecessary notifications. 
+Furthermore, users have some categories according to their role in the site. It can be used in our project to distinguish the students, teachers etc. 
+The site has a very sophisticated user profile, as in our project users' interests are the focus of the site.
+
+They use the APIs; OAuth 2.0, Sta.sh, User, oEmbed, RSS
+
   * [http://www.couchsurfing.org/ CouchSurfing] - Worldwide network for making connections between travelers and the local communities they visit
 
 This project can be taken as an example while building the search section of our application. *Searching filters* in this site are very clear and convenient. Although there are about 3 million users on this platform, it is possible to make an efficient search to filter this number for a particular purpose.
