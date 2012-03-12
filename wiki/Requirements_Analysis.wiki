@@ -2,7 +2,9 @@
 
 ==General description==
 
-*Gül*
+The application shall be a social web application to create an environment, where CMPE community can express and discover matters of interest – academic or otherwise.
+
+This place shall evolve into an archive of useful information. 
 
 ==Specific requirements==
 
