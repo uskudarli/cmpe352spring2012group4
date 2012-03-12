@@ -44,10 +44,6 @@ Subsections of interests should appear below.
 	System should support a specific format for each kind of special interests information given above. For example, when sharing musical interests, the specific format should include tags like artist, album, year, genre etc.
 
 	Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
-	
-	
-
-*Hakan*
 
   * Special purpose structures for the area of interest must be created (i.e. traveling: where, when, duration, pictures)
 
