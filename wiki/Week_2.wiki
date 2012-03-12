@@ -4,9 +4,13 @@
 
 *Participants*
 
-
+Hakan, Başak, Gül, Semih, Enes, Sabri, Tuncay, Ayşegül
 
 
 *Summary*
+
+  * We did some more research on functional/non-functional requirements and how to distinguish them.
+
+  * We analyzed a couple of examples before beginning to our requirements analysis.
 
   * 
