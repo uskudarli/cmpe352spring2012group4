@@ -31,17 +31,30 @@ Enes
 •	Events
 Ayşegül
 ==NON-FUNCTIONAL REQUIREMENTS==
-Operating & Platform constraints 
+
+*Operating & Platform constraints* 
+
 The application should be supported by all types of web browsers.
-Modifiability 
+
+*Modifiability *
+
 The application should be modifiable.
-Portability
+
+*Portability*
+
 A mobile application to interact with community shall be supported.
-Security 
+
+*Security *
+
 The application shall be accessed via a user authentification process. (i.e. sign in) Only members shall see the contents. Registration shall be validated since it is a restricted community.
-Usability 
+
+*Usability *
+
 The user interface of the application should be similar to popular social media applications (e.g. Facebook) at the launch stage to achieve ease of use.
-Privacy
+
+*Privacy*
+
 The user shall be able to arrange the visibility of their information, posts etc.
-Language
+
+*Language*
 In the early stage, the application shall be in English for everybody including foreigners to understand.
