@@ -54,7 +54,7 @@ Users should be able to view and use those applications.
 		Users should be able to add music playlists and share them by the "My Playlists" application.
 
 
-  * Discussion forum
+*   2.1.5. Discussion forum*
 
 A member should be able to start a new discussion topic.
 
@@ -66,7 +66,7 @@ A member should be able to start a new discussion topic.
 
 A member should be able to reply.
 
-  * Surveys
+*   2.1.6. Surveys*
 
 A member should be able to create a survey.
 
@@ -76,19 +76,19 @@ A member should be able to create a survey.
 
 The owner of the survey should specify whether and when the results of the survey are visible.
 
-  * Subscription to areas of interests and forums
+*   2.1.7. Subscription to areas of interests and forums*
 
         A member shall be able to subscribe to areas of interests.
 
         A member shall be able to subscribe to the topics in forums.
 
-  * Search/Advanced search
+*   2.1.8. Search/Advanced search*
 
 A member shall search for a person, survey, interest, topic.
 
 A member shall filter the result of search by using advanced search.
 
-  * Browsing
+*   2.1.9. Browsing*
 
 Users should be able to view the website's homepage.
 
@@ -98,7 +98,7 @@ Users should be able to view the other members' profiles if allowed.
 
 The system shall redirect the users when a link of a different website is clicked by them.
 
-  * Notification from subscriptions
+*   2.1.10. Notification from subscriptions*
 
 A member shall get the notifications for the newest posts about his/her subscribed interests.
 
@@ -106,7 +106,7 @@ A member shall get the notifications for the newest comments about the topics he
 
 A member shall get the notifications for the result of the surveys he/she created.
 
-  * Events
+*   2.1.11. Events*
 
 A member should be able to create an event.
 	
@@ -116,41 +116,41 @@ The creator of the event  shall decide the privacy level of the event like wheth
 
 The members of the event should be able to write on the event page,add links,upload photos or videos.
 
-  * Settings
+*   2.1.12. Settings*
 
 There shall be account and privacy settings sections.
 
-  * Help
+*   2.1.13. Help*
 
 There should be a documentation about how to use the application.
 
 
 ===2.2 NON-FUNCTIONAL REQUIREMENTS===
 
-*Operating & Platform constraints* 
+*   2.2.1. Operating & Platform constraints* 
 
 The application should be supported by all types of web browsers.
 
-*Modifiability *
+*   2.2.2. Modifiability *
 
 The system shall be designed so that the developers can modify it to respond the varying needs of users.
 
-*Portability*
+*   2.2.3. Portability*
 
 A mobile application to interact with community shall be supported.
 
-*Security *
+*   2.2.4. Security *
 
 The application shall be accessed via a user authentification process. (i.e. sign in) Only members shall see the contents. Registration shall be validated since it is a restricted community.
 
-*Usability *
+*   2.2.5. Usability *
 
 The user interface of the application should be similar to popular social media applications (e.g. Facebook) at the launch stage to achieve ease of use.
 
-*Privacy*
+*   2.2.6. Privacy*
 
 The user shall be able to arrange the visibility of their information, posts etc.
 
-*Language*
+*   2.2.7. Language*
 
 In the early stage, the application shall be in English for everybody including foreigners to understand.
