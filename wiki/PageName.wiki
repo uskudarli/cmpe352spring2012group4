@@ -2,12 +2,10 @@
 
 = Introduction =
 
-Add your content here.
+``Add your content here.
 
   # numerate1
   # numerate2
-  `` numerate21
-  # numerate3
 
 = Details =
 
