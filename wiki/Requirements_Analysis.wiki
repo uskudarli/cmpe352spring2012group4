@@ -59,6 +59,10 @@ A member shall be able to subscribe to areas of interests.
 
   * Search/Advanced search
 
+A member shall search for a person, survey, interest, topic.
+A member shall filter the result of search by using advanced search.
+
+
 *Semih*
 
   * Browsing
