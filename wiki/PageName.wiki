@@ -5,11 +5,8 @@
 add your content here.
 
 # numerate1
-
 # numerate2
-
  # numerate1.1
-
  # numerate1.2
 
 = Details =
