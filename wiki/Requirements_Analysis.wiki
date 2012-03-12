@@ -8,7 +8,7 @@
 
 Each member shall have their information fields such as:
 
-Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Education, Work etc, Graduation Year(expected if student).
+Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Education, Work etc, Graduation Year etc.
 
   * Home page
 
@@ -40,25 +40,26 @@ The owner of the survey should specify whether and when the results of the surve
 
   * Subscription to areas of interests and forums
 
-A member shall be able to subscribe to areas of interests
- 
-Tuncay
+A member shall be able to subscribe to areas of interests.
+
+
+*Tuncay*
 
   * Search/Advanced search
 
-Semih
+*Semih*
 
   * Browsing
 
-Sabri
+*Sabri*
 
   * Notification from subscriptions
 
-Enes
+*Enes*
 
   * Events
 
-Ayşegül
+*Ayşegül*
 
 ==NON-FUNCTIONAL REQUIREMENTS==
 
