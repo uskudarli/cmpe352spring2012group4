@@ -108,7 +108,7 @@ The application should be supported by all types of web browsers.
 
 *Modifiability *
 
-The application should be modifiable.
+The system shall be designed so that the developers can modify it to respond the varying needs of users.
 
 *Portability*
 
