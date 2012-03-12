@@ -86,7 +86,9 @@ A member should be able to create an event.
 	
 The creator of the event shall decide the information about the event like time,place,duration,other details.
 	
+
 The creator of the event  shall decide the privacy level of the event like whether it will be secret or public and whether it will be invite-only or every guest will be able to invite other members. 
+
 
 The members of the event should be able to write on the event page,add links,upload photos or videos.
 
