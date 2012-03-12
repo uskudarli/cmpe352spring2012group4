@@ -108,49 +108,49 @@
 
 *   2.1.11. Events*
 
-A member should be able to create an event.
+  2.1.11.1. A member should be able to create an event.
 	
-The creator of the event shall decide the information about the event like time,place,duration,other details.
+  2.1.11.2. The creator of the event shall decide the information about the event like time,place,duration,other details.
 	
-The creator of the event  shall decide the privacy level of the event like whether it will be secret or public and whether it will be invite-only or every guest will be able to invite other members. 
+  2.1.11.3. The creator of the event  shall decide the privacy level of the event like whether it will be secret or public and whether it will be invite-only or every guest will be able to invite other members. 
 
-The members of the event should be able to write on the event page,add links,upload photos or videos.
+  2.1.11.4. The members of the event should be able to write on the event page,add links,upload photos or videos.
 
 *   2.1.12. Settings*
 
-There shall be account and privacy settings sections.
+  2.1.12.1. There shall be account and privacy settings sections.
 
 *   2.1.13. Help*
 
-There should be a documentation about how to use the application.
+  2.1.13.1. There should be a documentation about how to use the application.
 
 
 ===2.2 NON-FUNCTIONAL REQUIREMENTS===
 
 *   2.2.1. Operating & Platform constraints* 
 
-The application should be supported by all types of web browsers.
+  2.2.1.1. The application should be supported by all types of web browsers.
 
 *   2.2.2. Modifiability *
 
-The system shall be designed so that the developers can modify it to respond the varying needs of users.
+  2.2.2.1. The system shall be designed so that the developers can modify it to respond the varying needs of users.
 
 *   2.2.3. Portability*
 
-A mobile application to interact with community shall be supported.
+  2.2.3.1. A mobile application to interact with community shall be supported.
 
 *   2.2.4. Security *
 
-The application shall be accessed via a user authentification process. (i.e. sign in) Only members shall see the contents. Registration shall be validated since it is a restricted community.
+  2.2.4.1. The application shall be accessed via a user authentification process. (i.e. sign in) Only members shall see the contents. Registration shall be validated since it is a restricted community.
 
 *   2.2.5. Usability *
 
-The user interface of the application should be similar to popular social media applications (e.g. Facebook) at the launch stage to achieve ease of use.
+  2.2.5.1. The user interface of the application should be similar to popular social media applications (e.g. Facebook) at the launch stage to achieve ease of use.
 
 *   2.2.6. Privacy*
 
-The user shall be able to arrange the visibility of their information, posts etc.
+  2.2.6.1. The user shall be able to arrange the visibility of their information, posts etc.
 
 *   2.2.7. Language*
 
-In the early stage, the application shall be in English for everybody including foreigners to understand.
+  2.2.7.1. In the early stage, the application shall be in English for everybody including foreigners to understand.
