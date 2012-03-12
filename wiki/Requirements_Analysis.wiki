@@ -22,7 +22,7 @@ The user shall go to the home page after logging in.
 
 Latest discussions, current events, new posts to various interests should appear here.
 
-The homepage should be common to each user.
+The posts to interests that appear on the home page should be the ones followed by the specific user.
 
 There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
 
