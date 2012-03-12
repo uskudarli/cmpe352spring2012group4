@@ -10,7 +10,7 @@ This place shall evolve into an archive of useful information.
 
 ===2.1. FUNCTIONAL REQUIREMENTS===
 
-*   2.1.1. Member profiles*
+   *2.1.1. Member profiles*
 
 Each member shall have their information fields such as:
 
