@@ -18,15 +18,15 @@
 
 *   2.1.2. Home page*
 
-The user shall go to the home page after logging in.
+   The user shall go to the home page after logging in.
 
-Latest discussions, current events, new posts to various interests should appear here.
+   Latest discussions, current events, new posts to various interests should appear here.
 
-The posts to interests that appear on the home page should be the ones followed by the specific user.
+   The posts to interests that appear on the home page should be the ones followed by the specific user.
 
-There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
+   There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
 
-Subsections of interests should appear below.
+   Subsections of interests should appear below.
 
 [http://cmpe352spring2012group4.googlecode.com/files/Home.jpg]
 
@@ -45,9 +45,9 @@ Subsections of interests should appear below.
 
 *   2.1.4. Special purpose structures for the area of interest*
 
-The system shall list the related applications below each area of interest when clicked.
+   The system shall list the related applications below each area of interest when clicked.
 
-Users should be able to view and use those applications.
+   Users should be able to view and use those applications.
 
 	Users should be able to click and start the "My Playlists" app below the music section.
 
@@ -56,15 +56,15 @@ Users should be able to view and use those applications.
 
 *   2.1.5. Discussion forum*
 
-A member should be able to start a new discussion topic.
+   A member should be able to start a new discussion topic.
 
-	The member shall write a related topic about his/her post.
+	   The member shall write a related topic about his/her post.
 
-	The member shall choose the related interests to specify the target audience.
+	   The member shall choose the related interests to specify the target audience.
 
-	The member shall post the content.
+	   The member shall post the content.
 
-A member should be able to reply.
+   A member should be able to reply.
 
 *   2.1.6. Surveys*
 
