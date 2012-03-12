@@ -20,6 +20,16 @@ Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gend
 
 The user shall go to the home page after logging in.
 
+The user shall go to the home page after logging in.
+
+Latest discussions, current events, new posts to various interests should appear here.
+
+The homepage should be common to each user.
+
+There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
+
+Subsections of interests should appear below.
+
 [http://cmpe352spring2012group4.googlecode.com/files/Home.jpg]
 
   * Creation of a space for special interests
