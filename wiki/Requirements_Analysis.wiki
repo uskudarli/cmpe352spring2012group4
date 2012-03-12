@@ -75,9 +75,6 @@ The owner of the survey should specify whether and when the results of the surve
 
         A member shall be able to subscribe to the topics in forums.
 
-
-*Tuncay*
-
   * Search/Advanced search
 
 A member shall search for a person, survey, interest, topic.
