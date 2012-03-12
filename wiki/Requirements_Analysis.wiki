@@ -1,35 +1,65 @@
 =REQUIREMENTS ANALYSIS=
   * General description
   * Specific requirements
+
 ==FUNCTIONAL REQUIREMENTS==
-• Member profiles
+
+  * Member profiles
+
 Each member shall have their information fields such as:
+
 Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Education, Work etc, Graduation Year(expected if student).
-*Home page
-• Creation of a space for special interests (such as music, sports, multi agent systems, ruby, facebook apps, traveling, movies, science fiction, conferences....).
-• Special purpose structures for the area of interest must be created (i.e. traveling: where, when, duration, pictures)
-• Discussion forum
+
+  * Home page
+
+  * Creation of a space for special interests (such as music, sports, multi agent systems, ruby, facebook apps, traveling, movies, science fiction, conferences....).
+
+  * Special purpose structures for the area of interest must be created (i.e. traveling: where, when, duration, pictures)
+
+  * Discussion forum
+
 A member should be able to start a new discussion topic.
+
 	The member shall write a related topic about his/her post.
+
 	The member shall choose the related interests to specify the target audience.
+
 	The member shall post the content.
+
 A member should be able to reply.
-• Surveys
+
+  * Surveys
+
 A member should be able to create a survey.
+
 	The member shall choose the related interests to specify the target audience.
+
 	The member shall specify the duration of the survey.
+
 The owner of the survey should specify whether and when the results of the survey are visible.
-• Subscription to areas of interests and forums
-A member shall be able to subscribe to areas of interests 
+
+  * Subscription to areas of interests and forums
+
+A member shall be able to subscribe to areas of interests
+ 
 Tuncay
-• Search/Advanced search
+
+  * Search/Advanced search
+
 Semih
-• Browsing
+
+  * Browsing
+
 Sabri
-• Notification from subscriptions
+
+  * Notification from subscriptions
+
 Enes
-•	Events
+
+  * Events
+
 Ayşegül
+
 ==NON-FUNCTIONAL REQUIREMENTS==
 
 *Operating & Platform constraints* 
@@ -57,4 +87,5 @@ The user interface of the application should be similar to popular social media 
 The user shall be able to arrange the visibility of their information, posts etc.
 
 *Language*
+
 In the early stage, the application shall be in English for everybody including foreigners to understand.
