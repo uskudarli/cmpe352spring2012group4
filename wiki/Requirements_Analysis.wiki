@@ -49,7 +49,7 @@
 
    Users should be able to view and use those applications.
 
-	\t Users should be able to click and start the "My Playlists" app below the music section.
+	&# Users should be able to click and start the "My Playlists" app below the music section.
 
 	&#9;Users should be able to add music playlists and share them by the "My Playlists" application.
 
