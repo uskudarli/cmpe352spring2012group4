@@ -2,9 +2,9 @@
 
 ==1. General description==
 
-The application shall be a social web application to create an environment, where CMPE community can express and discover matters of interest – academic or otherwise.
+   The application shall be a social web application to create an environment, where CMPE community can express and discover matters of interest – academic or otherwise.
 
-This place shall evolve into an archive of useful information. 
+   This place shall evolve into an archive of useful information. 
 
 ==2. Specific requirements==
 
@@ -12,9 +12,9 @@ This place shall evolve into an archive of useful information.
 
 *   2.1.1. Member profiles*
 
-Each member shall have their information fields such as:
+   Each member shall have their information fields such as:
 
-Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Connections, Education, Work etc, Graduation Year etc.
+   Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Connections, Education, Work etc, Graduation Year etc.
 
 *   2.1.2. Home page*
 
