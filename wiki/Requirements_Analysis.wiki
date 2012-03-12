@@ -30,7 +30,7 @@ Subsections of interests should appear below.
 
 [http://cmpe352spring2012group4.googlecode.com/files/Home.jpg]
 
-*   2.1.3. Creation of a space for special interests
+*   2.1.3. Creation of a space for special interests*
 	Each member profile shall include a space for special interests specific to that person.
 
 	Space for special interests should include subsections.
@@ -43,7 +43,7 @@ Subsections of interests should appear below.
 
 	Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
 
-*   2.1.4. Special purpose structures for the area of interest must be created
+*   2.1.4. Special purpose structures for the area of interest must be created*
 
 The system shall list the related applications below each area of interest when clicked.
 
