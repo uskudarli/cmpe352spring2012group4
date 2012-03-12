@@ -18,13 +18,13 @@
 
 *   2.1.2. Home page*
 
-   The user shall go to the home page after logging in.
+   2.1.2.1. The user shall go to the home page after logging in.
 
-   Latest discussions, current events, new posts to various interests should appear here.
+   2.1.2.2. Latest discussions, current events, new posts to various interests should appear here.
 
-   The posts to interests that appear on the home page should be the ones followed by the specific user.
+   2.1.2.3. The posts to interests that appear on the home page should be the ones followed by the specific user.
 
-   There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
+   2.1.2.4. There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
 
    Subsections of interests should appear below.
 
