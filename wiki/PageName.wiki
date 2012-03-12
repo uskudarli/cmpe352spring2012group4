@@ -4,8 +4,8 @@
 
 add your content here.
 
-`#`= numerate1=
-#= numerate2==
+`#` = numerate1=
+= numerate2==
 
 = Details =
 
