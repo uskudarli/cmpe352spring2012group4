@@ -1,6 +1,6 @@
 =REQUIREMENTS ANALYSIS=
 
-==1.General description==
+==1. General description==
 
 The application shall be a social web application to create an environment, where CMPE community can express and discover matters of interest – academic or otherwise.
 
@@ -125,7 +125,7 @@ There shall be account and privacy settings sections.
 There should be a documentation about how to use the application.
 
 
-===NON-FUNCTIONAL REQUIREMENTS===
+===2.2 NON-FUNCTIONAL REQUIREMENTS===
 
 *Operating & Platform constraints* 
 
