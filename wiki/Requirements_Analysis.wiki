@@ -45,13 +45,13 @@
 
 *   2.1.4. Special purpose structures for the area of interest*
 
-   The system shall list the related applications below each area of interest when clicked.
+   2.1.4.1. The system shall list the related applications below each area of interest when clicked.
 
-   Users should be able to view and use those applications.
+   2.1.4.2. Users should be able to view and use those applications.
 
-	&#09;Users should be able to click and start the "My Playlists" app below the music section.
+   2.1.4.3. Users should be able to click and start the "My Playlists" app below the music section.
 
-	&#09;&#09;Users should be able to add music playlists and share them by the "My Playlists" application.
+   2.1.4.4. Users should be able to add music playlists and share them by the "My Playlists" application.
 
 
 *   2.1.5. Discussion forum*
