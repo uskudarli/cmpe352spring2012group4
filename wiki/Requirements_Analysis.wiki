@@ -18,7 +18,7 @@
 
 *   2.1.2. Home page*
 
-   2.1.2.1. The user shall go to the home page after logging in.
+   *2.1.2.1.* The user shall go to the home page after logging in.
 
    2.1.2.2. Latest discussions, current events, new posts to various interests should appear here.
 
