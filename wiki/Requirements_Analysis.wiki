@@ -72,6 +72,12 @@ A member shall filter the result of search by using advanced search.
 
   * Notification from subscriptions
 
+The member shall get the notifications for the newest posts about his/her subscribed interests.
+
+The member shall get the notifications for the newest comments about the topics he/she created.
+
+The member shall get the notifications for the result of the surveys he/she created.
+
 *Enes*
 
   * Events
