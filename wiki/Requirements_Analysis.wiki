@@ -1,13 +1,47 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=REQUIREMENTS ANALYSIS=
+  * General description
+  * Specific requirements
+==FUNCTIONAL REQUIREMENTS==
+• Member profiles
+Each member shall have their information fields such as:
+Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Education, Work etc, Graduation Year(expected if student).
+*Home page
+• Creation of a space for special interests (such as music, sports, multi agent systems, ruby, facebook apps, traveling, movies, science fiction, conferences....).
+• Special purpose structures for the area of interest must be created (i.e. traveling: where, when, duration, pictures)
+• Discussion forum
+A member should be able to start a new discussion topic.
+	The member shall write a related topic about his/her post.
+	The member shall choose the related interests to specify the target audience.
+	The member shall post the content.
+A member should be able to reply.
+• Surveys
+A member should be able to create a survey.
+	The member shall choose the related interests to specify the target audience.
+	The member shall specify the duration of the survey.
+The owner of the survey should specify whether and when the results of the survey are visible.
+• Subscription to areas of interests and forums
+A member shall be able to subscribe to areas of interests 
+Tuncay
+• Search/Advanced search
+Semih
+• Browsing
+Sabri
+• Notification from subscriptions
+Enes
+•	Events
+Ayşegül
+==NON-FUNCTIONAL REQUIREMENTS==
+Operating & Platform constraints 
+The application should be supported by all types of web browsers.
+Modifiability 
+The application should be modifiable.
+Portability
+A mobile application to interact with community shall be supported.
+Security 
+The application shall be accessed via a user authentification process. (i.e. sign in) Only members shall see the contents. Registration shall be validated since it is a restricted community.
+Usability 
+The user interface of the application should be similar to popular social media applications (e.g. Facebook) at the launch stage to achieve ease of use.
+Privacy
+The user shall be able to arrange the visibility of their information, posts etc.
+Language
+In the early stage, the application shall be in English for everybody including foreigners to understand.
