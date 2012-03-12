@@ -14,9 +14,11 @@ This place shall evolve into an archive of useful information.
 
 Each member shall have their information fields such as:
 
-Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Education, Work etc, Graduation Year etc.
+Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Connections, Education, Work etc, Graduation Year etc.
 
   * Home page
+
+The user shall go to the home page after logging in.
 
 [http://cmpe352spring2012group4.googlecode.com/files/Home.jpg]
 
