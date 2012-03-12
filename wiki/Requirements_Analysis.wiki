@@ -10,13 +10,13 @@ This place shall evolve into an archive of useful information.
 
 ===2.1. FUNCTIONAL REQUIREMENTS===
 
-  * Member profiles
+   2.1.1. Member profiles
 
 Each member shall have their information fields such as:
 
 Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Connections, Education, Work etc, Graduation Year etc.
 
-  * Home page
+   2.1.2. Home page
 
 The user shall go to the home page after logging in.
 
