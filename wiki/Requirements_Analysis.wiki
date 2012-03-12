@@ -78,33 +78,33 @@
 
 *   2.1.7. Subscription to areas of interests and forums*
 
-        A member shall be able to subscribe to areas of interests.
+   2.1.7.1. A member shall be able to subscribe to areas of interests.
 
-        A member shall be able to subscribe to the topics in forums.
+   2.1.7.2. A member shall be able to subscribe to the topics in forums.
 
 *   2.1.8. Search/Advanced search*
 
-A member shall search for a person, survey, interest, topic.
+   2.1.8.1. A member shall search for a person, survey, interest, topic.
 
-A member shall filter the result of search by using advanced search.
+   2.1.8.2. A member shall filter the result of search by using advanced search.
 
 *   2.1.9. Browsing*
 
-Users should be able to view the website's homepage.
+   2.1.9.1. Users should be able to view the website's homepage.
 
-Users should be able to view the forums, surveys and discussions.
+   2.1.9.2. Users should be able to view the forums, surveys and discussions.
 
-Users should be able to view the other members' profiles if allowed.
+   2.1.9.3. Users should be able to view the other members' profiles if allowed.
 
-The system shall redirect the users when a link of a different website is clicked by them.
+   2.1.9.4. The system shall redirect the users when a link of a different website is clicked by them.
 
 *   2.1.10. Notification from subscriptions*
 
-A member shall get the notifications for the newest posts about his/her subscribed interests.
+   2.1.10.1. A member shall get the notifications for the newest posts about his/her subscribed interests.
 
-A member shall get the notifications for the newest comments about the topics he/she created.
+  2.1.10.2. A member shall get the notifications for the newest comments about the topics he/she created.
 
-A member shall get the notifications for the result of the surveys he/she created.
+  2.1.10.3. A member shall get the notifications for the result of the surveys he/she created.
 
 *   2.1.11. Events*
 
