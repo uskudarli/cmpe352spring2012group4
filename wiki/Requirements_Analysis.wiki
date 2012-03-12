@@ -20,8 +20,6 @@ Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gend
 
 The user shall go to the home page after logging in.
 
-The user shall go to the home page after logging in.
-
 Latest discussions, current events, new posts to various interests should appear here.
 
 The homepage should be common to each user.
