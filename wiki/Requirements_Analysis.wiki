@@ -71,9 +71,9 @@ The owner of the survey should specify whether and when the results of the surve
 
   * Subscription to areas of interests and forums
 
-A member shall be able to subscribe to areas of interests.
+        A member shall be able to subscribe to areas of interests.
 
-A member shall be able to subscribe to the topics in forums.
+        A member shall be able to subscribe to the topics in forums.
 
 
 *Tuncay*
