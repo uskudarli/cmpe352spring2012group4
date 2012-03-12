@@ -16,7 +16,7 @@ Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gend
 
   * Home page
 
-*Başak*
+*Başak & Gül*
 
   * Creation of a space for special interests (such as music, sports, multi agent systems, ruby, facebook apps, traveling, movies, science fiction, conferences....).
 
@@ -24,7 +24,7 @@ Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gend
 
   * Special purpose structures for the area of interest must be created (i.e. traveling: where, when, duration, pictures)
 
-*Gül*
+*Sabri*
 
   * Discussion forum
 
