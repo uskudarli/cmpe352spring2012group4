@@ -21,7 +21,7 @@ Hakan, Başak, Gül, Semih, Enes, Sabri, Tuncay, Ayşegül
 
 *Decisions*
 
-  * Each person is responsible for 1-2 points.
+  * Each person is responsible for 1-2 points. (Responsibilities are stated in "Requirements Analysis version1" document in "Downloads" section.)
 
   * Everybody will do their responsibility until 10pm today, then we will edit the page to obtain a formal & complete document.
 
