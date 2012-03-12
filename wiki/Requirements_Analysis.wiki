@@ -43,7 +43,7 @@ Subsections of interests should appear below.
 
 	Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
 
-*   2.1.4. Special purpose structures for the area of interest must be created*
+*   2.1.4. Special purpose structures for the area of interest*
 
 The system shall list the related applications below each area of interest when clicked.
 
