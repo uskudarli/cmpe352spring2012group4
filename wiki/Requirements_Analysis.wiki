@@ -63,9 +63,6 @@ A member shall search for a person, survey, interest, topic.
 
 A member shall filter the result of search by using advanced search.
 
-
-*Semih*
-
   * Browsing
 
 *Sabri*
@@ -78,8 +75,6 @@ A member shall get the notifications for the newest comments about the topics he
 
 A member shall get the notifications for the result of the surveys he/she created.
 
-*Enes*
-
   * Events
 
 A member should be able to create an event.
@@ -91,9 +86,6 @@ The creator of the event  shall decide the privacy level of the event like wheth
 
 
 The members of the event should be able to write on the event page,add links,upload photos or videos.
-
-
-*Ayşegül*
 
 ===NON-FUNCTIONAL REQUIREMENTS===
 
