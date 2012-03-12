@@ -1,8 +1,12 @@
 =REQUIREMENTS ANALYSIS=
-  * General description
-  * Specific requirements
 
-==FUNCTIONAL REQUIREMENTS==
+==General description==
+
+*Gül*
+
+==Specific requirements==
+
+===FUNCTIONAL REQUIREMENTS===
 
   * Member profiles
 
@@ -12,9 +16,15 @@ Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gend
 
   * Home page
 
+*Başak*
+
   * Creation of a space for special interests (such as music, sports, multi agent systems, ruby, facebook apps, traveling, movies, science fiction, conferences....).
 
+*Hakan*
+
   * Special purpose structures for the area of interest must be created (i.e. traveling: where, when, duration, pictures)
+
+*Gül*
 
   * Discussion forum
 
@@ -61,7 +71,7 @@ A member shall be able to subscribe to areas of interests.
 
 *Ayşegül*
 
-==NON-FUNCTIONAL REQUIREMENTS==
+===NON-FUNCTIONAL REQUIREMENTS===
 
 *Operating & Platform constraints* 
 
