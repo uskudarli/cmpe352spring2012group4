@@ -43,9 +43,16 @@ Subsections of interests should appear below.
 
 	Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
 
-  * Special purpose structures for the area of interest must be created (i.e. traveling: where, when, duration, pictures)
+  * Special purpose structures for the area of interest must be created
 
-*Sabri*
+The system shall list the related applications below each area of interest when clicked.
+
+Users should be able to view and use those applications.
+
+	Users should be able to click and start the "My Playlists" app below the music section.
+
+		Users should be able to add music playlists and share them by the "My Playlists" application.
+
 
   * Discussion forum
 
@@ -83,7 +90,13 @@ A member shall filter the result of search by using advanced search.
 
   * Browsing
 
-*Sabri*
+Users should be able to view the website's homepage.
+
+Users should be able to view the forums, surveys and discussions.
+
+Users should be able to view the other members' profiles if allowed.
+
+The system shall redirect the users when a link of a different website is clicked by them.
 
   * Notification from subscriptions
 
