@@ -51,7 +51,7 @@
 
    2.1.4.3. Users should be able to click and start the *My Playlists* app below the music section.
 
-   2.1.4.4. Users should be able to add music playlists and share them by the "My Playlists" application.
+   2.1.4.4. Users should be able to add music playlists and share them by the *My Playlists* application.
 
 
 *   2.1.5. Discussion forum*
