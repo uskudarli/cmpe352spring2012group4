@@ -21,7 +21,7 @@ Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gend
 *Başak & Gül*
 
   * Creation of a space for special interests
-	Each member profile shall include a *space for special interests specific to that person*.
+	Each member profile shall include a space for special interests specific to that person.
 
 	Space for special interests should include subsections.
 
