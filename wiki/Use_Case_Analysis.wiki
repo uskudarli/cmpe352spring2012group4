@@ -2,7 +2,7 @@
 
 ==Use Case Diagram:==
 
-[http://cmpe352spring2012group4.googlecode.com/files/UseCaseDiagram2.jpg]
+[http://cmpe352spring2012group4.googlecode.com/files/UseCaseDiagram3.jpg]
 
 ==Use Cases:==
 
