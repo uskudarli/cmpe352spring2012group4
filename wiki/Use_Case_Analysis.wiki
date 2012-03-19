@@ -139,7 +139,7 @@ UC11 - Check membership availability    *Başak*
 
 *Name: * Recommend person
 
-*Actors: *All users
+*Actors: *
 
 *Goal:* 
 
