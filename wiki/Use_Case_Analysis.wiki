@@ -26,7 +26,7 @@ UC9 - Invite people to an event
 
 UC10 - Check e-mail validity
 
-UC1 – Register
+*UC1 – Register*
 
 •	User will enter his basic personal information (name, surname, e-mail, password).
 
@@ -34,7 +34,7 @@ UC1 – Register
 
 •	User will verify his e-mail.
 
-UC2 – Log in
+*UC2 – Log in*
 
 •	User will enter his e-mail and password, then click log in button.
 
@@ -42,7 +42,7 @@ UC2 – Log in
 
 •	System will direct the user to the home page.
 
-UC3 – Create an interest
+*UC3 – Create an interest*
 
 •	User will go to “Interests” page from the link on the home page.
 
@@ -54,7 +54,7 @@ UC3 – Create an interest
 
 •	User will enter the information about the interest (and upload a profile Picture if he wants).
 
-UC4 – Subscribe to an interest
+*UC4 – Subscribe to an interest*
 
 •	User will search an interest via entering its name in the search bar.
 
@@ -64,19 +64,19 @@ UC4 – Subscribe to an interest
 
 •	The interest’s page will be added to his profile.
 
-UC5 – Recommend person
+*UC5 – Recommend person*
 
 •	System will determine the people who have similar interests with the user.
 
 •	These people will appear on the recommended people section.
 
-UC6 – Recommend interest
+*UC6 – Recommend interest*
 
 •	System will determine other interests which have the similar tags with the user’s interests.
 
 •	These interests will be appear on the recommended interests section.
 
-UC7 – Create an event
+*UC7 – Create an event*
 
 •	User will go to “Events” page from the link on the home page.
 
@@ -90,13 +90,16 @@ UC7 – Create an event
 
 •	System will create a notification about the event on other people’s (who has the same interest) home page.
 
-UC8 – Manage interest pages
+*UC8 – Manage interest pages*
+
 •
 
-UC9 - Invite people to an event
+*UC9 - Invite people to an event*
+
 •
 
-UC10 - Check e-mail validity
+*UC10 - Check e-mail validity*
+
 •
 
 ==Use Case Scenarios:==
