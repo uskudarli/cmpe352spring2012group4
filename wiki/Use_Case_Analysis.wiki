@@ -56,6 +56,8 @@ UC11 - Check membership availability
 
 *Postconditions:* 
 
+     •  System will create a profile page for the user.
+
 *UC2 – Log in*   *Başak*
 
 *Name:* Log in
@@ -74,9 +76,9 @@ UC11 - Check membership availability
 
      •	System will check the information.
 
-     •	System will direct the user to the home page.
-
 *Postconditions:* 
+
+     •	System will direct the user to the home page.
 
 *UC3 – Create an interest*  *Sabri*
 
