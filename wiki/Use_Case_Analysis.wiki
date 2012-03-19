@@ -173,7 +173,7 @@ UC10 - Check e-mail validity
 
 *Name:* E-mail Validity
 
-*Actors:* System (Database)
+*Actors:* Admin and System Database
 
 *Goal:* To allow a user to create a new account with a valid e-mail
 
