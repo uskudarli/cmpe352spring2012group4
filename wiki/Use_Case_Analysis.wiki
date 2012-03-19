@@ -289,27 +289,26 @@ UC11 - Check membership availability    *Başak*
 
 ===UC11 - Check membership availability===
 
-*Name: *
+*Name: * Check membership availability
 
-*Actors: *
+*Actors: * All users
 
-*Goal:* 
+*Goal:* To check whether a user is a cmpe community member.
 
 *Preconditions: *
 
-     •
+     • A request from the user to register the web page.
  
 *Steps: *
 
-     •  
+     • Admin will check the information of the user and decide whether he is a member of cmpe community. 
 
-     •  
+     •  Admin will make the user's account active and send him a comfirmation e-mail.
 
-     • 
 
 *Postconditions:* 
 
-     • 
+     • User will be defined to the web page and will be able to log in successfully.
 
 ----
 
