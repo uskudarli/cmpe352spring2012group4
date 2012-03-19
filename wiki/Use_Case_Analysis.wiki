@@ -242,7 +242,7 @@
 
 *Postconditions:* 
 
-     •	Interest name will be added to the database.
+     •	Interest name will be added to the database and it will be shown on the interest catagories after approval.
 
 
 
