@@ -36,6 +36,8 @@ UC10 - Check e-mail validity
 
 *Preconditions:* 
 
+     •  To be a Cmpe community member. 
+
 *Steps:*
 
      •	User will enter his basic personal information (name, surname, e-mail, password).
