@@ -8,27 +8,27 @@
 
 ==Use Cases:==
 
-UC1 – Register     Başak 
+UC1 – Register     *Başak *
 
-UC2 – Log in      Başak
+UC2 – Log in       * Başak*
 
-UC3 – Create an interest  Sabri
+UC3 – Create an interest     *Sabri*
 
-UC4 – Subscribe to an interest Semih
+UC4 – Subscribe to an interest    *Semih*
 
 UC5 – Recommend person
 
 UC6 – Recommend interest
 
-UC7 – Create an event Semih
+UC7 – Create an event    * Semih*
 
-UC8 – Manage interest pages Tuncay
+UC8 – Manage interest pages    *Tuncay*
 
 UC9 - Invite people to an event
 
-UC10 - Check e-mail validity Tuncay
+UC10 - Check e-mail validity     *Tuncay*
 
-UC11 - Check membership availability
+UC11 - Check membership availability    *Başak*
 
 ----
 
