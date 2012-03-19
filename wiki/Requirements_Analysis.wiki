@@ -18,7 +18,7 @@
 
    2.1.2.1. The user shall go to the home page after logging in.
 
-   2.1.2.2. Latest discussions, current events, new posts to various interests should appear home page.
+   2.1.2.2. Latest discussions, current events, new posts to various interests should appear on the home page.
 
    2.1.2.3. The posts to interests that appear on the home page should be the ones followed by the specific user.
 
@@ -79,9 +79,9 @@
 
 *   2.1.9. Notification from subscriptions*
    
-  _ 2.1.9.1. There will be a page for each user where he will be able to check his notification list. _
+  _ 2.1.9.1. There will be a page for each user where he/she will be able to check his notification list. _
 
-  _ 2.1.9.2. The user will be able to see the number of unread notifications on his home page._
+  _ 2.1.9.2. The user will be able to see the number of unread notifications on his/her home page._
 
    2.1.9.3. A member shall get the notifications for the newest posts about his/her subscribed interests.
 
@@ -148,7 +148,7 @@
 
 *   2.2.11. Expected Activity *
 
-  _2.2.11.1. The expected user activity for the first months are expected to be low because our webpage will be new for cmpe community, but in a couple of months it will be expected to be higher._
+  _2.2.11.1. The expected user activity for the first months are expected to be low because the webpage will be new for cmpe community, but in a couple of months it will be expected to be higher._
 
 *   2.2.12. System Availablity *
 
@@ -156,7 +156,7 @@
 
   _2.2.12.2. The user interface of the system shall be available during day and the maintanance shall be performed in the nights._
 
-*   2.2.13. Physical Requirments *
+*   2.2.13. Physical Requirements *
 
   _2.2.13.1. System shall be written in Windows or Linux operating systems._
 
