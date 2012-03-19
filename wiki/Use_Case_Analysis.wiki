@@ -137,9 +137,9 @@ UC11 - Check membership availability    *Başak*
 
 ===UC5 – Recommend person===
 
-*Name: *
+*Name: * Recommend person
 
-*Actors: *
+*Actors: *All users
 
 *Goal:* 
 
@@ -159,9 +159,9 @@ UC11 - Check membership availability    *Başak*
 
 ===*UC6 – Recommend interest*===
 
-*Name: *
+*Name: * Recommend interest
 
-*Actors: *
+*Actors: * All users
 
 *Goal:* 
 
