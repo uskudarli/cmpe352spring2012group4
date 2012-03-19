@@ -204,8 +204,6 @@ UC10 - Check e-mail validity
 
      •	User will enter his/her email address.
 
-     •	Admin will approve the email address.
-
      •	System will add the new email into the database if it is approved by the admin.
 
 
