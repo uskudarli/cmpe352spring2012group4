@@ -128,7 +128,7 @@
 
 *   2.2.1. Operating & Platform constraints* 
 
-  2.2.1.1. The application should be supported by all types of web browsers.
+  2.2.1.1. The application should be supported by Google Chrome and Mozilla Firefox.
 
 *   2.2.2. Modifiability *
 
