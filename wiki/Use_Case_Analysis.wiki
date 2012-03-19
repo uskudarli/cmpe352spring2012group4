@@ -169,7 +169,6 @@ UC10 - Check e-mail validity
 •
 
 *UC10 - Check e-mail validity* Tuncay
-*UC10 - Check e-mail validity*
 
 
 *Name:* E-mail Validity
