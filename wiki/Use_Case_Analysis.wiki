@@ -148,6 +148,7 @@ UC10 - Check e-mail validity
 •	User can invite people to the event by clicking on the “Invite” button.
 
 *Postconditions*:
+
 •	System will create a notification about the event on other people’s (who has the same interest) home page
 
 *UC8 – Manage interest pages* Tuncay
