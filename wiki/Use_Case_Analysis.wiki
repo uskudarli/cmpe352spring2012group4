@@ -64,11 +64,11 @@ UC10 - Check e-mail validity
 
 *Steps:*
 
-•	User will enter his e-mail and password, then click log in button.
+     •	User will enter his e-mail and password, then click log in button.
 
-•	System will check the information.
+     •	System will check the information.
 
-•	System will direct the user to the home page.
+     •	System will direct the user to the home page.
 
 *Postconditions:* 
 
