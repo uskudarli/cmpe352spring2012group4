@@ -36,7 +36,7 @@ UC10 - Check e-mail validity
 
 *Preconditions:* 
 
-     •  To be a Cmpe community member. 
+     •  To be a cmpe community member. 
 
 *Steps:*
 
@@ -44,7 +44,9 @@ UC10 - Check e-mail validity
 
      •	System will add the information into the database and want the user to verify his e-mail.
 
-     •	User will verify his e-mail.
+     •	User will verify his e-mail and wait for the acceptance.
+
+     •  Admin will check the information of the user and whether the user is a cmpe community member. Then will activate his/her profile and send an e-mail to inform the user.
 
 *Postconditions:* 
 
