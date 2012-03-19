@@ -356,9 +356,10 @@
 
       Corresponding action sequence by use cases:
 
- * User registers by entering his name, surname, e-mail and a password.
+ * User *registers* by entering his name, surname, a valid e-mail and a password.
+
  
- * Admin checks the membership availability and accepts the user as a CMPE community member.
+ * Admin *checks the membership availability* and accepts the user as a CMPE community member.
 
  * User *creates an event* with the name "BarCamp Organization About jQuery" specifying the related interests tags as "programming" and "Web applications".
  
