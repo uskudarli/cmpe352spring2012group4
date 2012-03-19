@@ -58,17 +58,31 @@ UC10 - Check e-mail validity
 
 •	System will direct the user to the home page.
 
-*UC3 – Create an interest*
+*UC3 – Create an interest*  *Sabri*
 
-•	User will go to “Interests” page from the link on the home page.
+*Name:* Create an interest
 
-•	User will click the “Create an interest” button.
+*Actors:* All users and admins
 
-•	User will choose the related category tags (pre-specified finite set of tags supplied by the administrator) such as music, sports, arts etc…
+*Goal:* To create a new interest for all users
 
-•	User will be able to write down related search tags(user is free to enter any words).
+*Preconditions:*
 
-•	User will enter the information about the interest (and upload a profile Picture if he wants).
+     •  To be a registered user or an admin
+
+*Steps:*
+
+     •  User will go to “Interests” page from the link on the home page.
+
+     •  User will click the “Create an interest” button.
+
+     •  User will choose the related category tags (pre-specified finite set of tags supplied by the administrator) such as music, sports, arts etc…
+
+     •  User will be able to write down related search tags(user is free to enter any words).
+
+     •  User will enter the information about the interest (and upload a profile Picture if he wants).
+
+*Postconditions:*
 
 *UC4 – Subscribe to an interest*
 
