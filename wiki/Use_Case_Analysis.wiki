@@ -155,11 +155,11 @@ UC11 - Check membership availability    *Başak*
 
      •	System will determine the people who have similar interests with the user.
 
-     •	These people will appear on the recommended people section.
-
+     
 *Postconditions:*
 
-     • 
+     • These people will appear on the recommended people section.
+
 
 ===UC6 – Recommend interest===
 
@@ -180,11 +180,11 @@ UC11 - Check membership availability    *Başak*
 
      •	System will determine other interests which have the similar tags with the user’s interests.
 
-     •	These interests will be appear on the recommended interests section.
+     
 
 *Postconditions:*
 
-     • 
+     • These interests will be appear on the recommended interests section.
 
 ===UC7 - Create an event===
 
