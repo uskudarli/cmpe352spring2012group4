@@ -122,6 +122,16 @@ UC10 - Check e-mail validity
 
 *UC7 – Create an event* Semih
 
+*Name:* Create an Event
+*Actors:* All Users and Admin
+*Goal:* To allow all users and admin to create an event
+
+*Preconditions:*
+The registered user or the admin should log in the system.  
+The event that the user or the admin want to create should not be already exist
+*Steps:*
+
+
 •	User will go to “Events” page from the link on the home page.
 
 •	User will click the “Create an event” button.
@@ -132,8 +142,8 @@ UC10 - Check e-mail validity
 
 •	User can invite people to the event by clicking on the “Invite” button.
 
-•	System will create a notification about the event on other people’s (who has the same interest) home page.
-
+*Postconditions*:
+•	System will create a notification about the event on other people’s (who has the same interest) home page
 
 *UC8 – Manage interest pages* Tuncay
 
