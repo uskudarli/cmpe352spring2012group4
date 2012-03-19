@@ -32,7 +32,7 @@ UC11 - Check membership availability
 
 ----
 
-===*UC1 – Register* === *Başak*
+===UC1 – Register === *Başak*
 
 *Name:* Register
 
