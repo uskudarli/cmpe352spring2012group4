@@ -133,6 +133,7 @@ UC10 - Check e-mail validity
 •The registered user or the admin should log in the system.  
 
 •The event that the user or the admin want to create should not be already exist
+
 *Steps:*
 
 
