@@ -8,31 +8,31 @@
 
 ==Use Cases:==
 
-UC1 – Register     *Başak *
+[#UC1_-_Register] *Başak*
 
-UC2 – Log in       * Başak*
+[#UC2_-_Log_in] *Başak*
 
-UC3 – Create an interest     *Sabri*
+[#UC3_-_Create_an_interest] *Sabri*
 
-UC4 – Subscribe to an interest    *Semih*
+[#UC4_-_Subscribe_to_an_interest] *Semih*
 
-UC5 – Recommend person *Ayşegül*
+[#UC5_-_Recommend_person] *Ayşegül*
 
-UC6 – Recommend interest *Ayşegül*
+[#UC6_-_Recommend_interest] *Ayşegül*
 
-[#UC7_-_Create_an_event]  * Semih*
+[#UC7_-_Create_an_event] *Semih*
 
-UC8 – Manage interest pages    *Tuncay*
+[#UC8_-_Manage_interest_pages] *Tuncay*
 
-UC9 - Invite people to an event *Ayşegül*
+[#UC9_-_Invite_people_to_an_event] *Ayşegül*
 
-UC10 - Check e-mail validity     *Tuncay*
+[#UC10_-_Check_e-mail_validity] *Tuncay*
 
-UC11 - Check membership availability    *Başak*
+[#UC11_-_Check_membership_availability] *Başak*
 
 ----
 
-=== UC1 – Register === 
+=== UC1 - Register === 
 
 *Name:* Register
 
@@ -58,7 +58,7 @@ UC11 - Check membership availability    *Başak*
 
      •  System will create a profile page for the user.
 
-===UC2 – Log in===
+===UC2 - Log in===
 
 *Name:* Log in
 
@@ -80,7 +80,7 @@ UC11 - Check membership availability    *Başak*
 
      •	System will direct the user to the home page.
 
-===UC3 – Create an interest===
+===UC3 - Create an interest===
 
 *Name:* Create an interest
 
@@ -108,7 +108,7 @@ UC11 - Check membership availability    *Başak*
 
 *Postconditions:*
 
-===UC4 – Subscribe to an interest===
+===UC4 - Subscribe to an interest===
 
 *Name:*  Subscribe to an interest 
 
@@ -137,7 +137,7 @@ UC11 - Check membership availability    *Başak*
 
 
 
-===UC5 – Recommend person===
+===UC5 - Recommend person===
 
 *Name: * Recommend person
 
@@ -161,7 +161,7 @@ UC11 - Check membership availability    *Başak*
      • These people will appear on the recommended people section.
 
 
-===UC6 – Recommend interest===
+===UC6 - Recommend interest===
 
 *Name: * Recommend interest
 
@@ -217,7 +217,7 @@ UC11 - Check membership availability    *Başak*
 
      •	System will create a notification about the event on other people’s (who has the same interest) home page
 
-===UC8 – Manage interest pages===
+===UC8 - Manage interest pages===
 
 *Name:* Manage Interests
 
