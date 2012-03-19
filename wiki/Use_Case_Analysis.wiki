@@ -52,11 +52,25 @@ UC10 - Check e-mail validity
 
 *UC2 – Log in*   *Başak*
 
+*Name:* Log in
+
+*Actors:* All users and admins
+
+*Goal:* 
+
+*Preconditions:* 
+
+     •  To be registered as a member of the website and to have an active account. 
+
+*Steps:*
+
 •	User will enter his e-mail and password, then click log in button.
 
 •	System will check the information.
 
 •	System will direct the user to the home page.
+
+*Postconditions:* 
 
 *UC3 – Create an interest*  *Sabri*
 
