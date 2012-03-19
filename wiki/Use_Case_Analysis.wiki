@@ -256,11 +256,15 @@ UC11 - Check membership availability    *Başak*
  
 *Steps: *
 
-     •  
 
-     •  
+     •  User will go to event page.
 
-     • 
+     •  User will click on the invite button
+
+     •  User will choose other users who will be invited.
+ 
+     •  User will click on the invite button after finishing choosing. 
+
 
 *Postconditions:*
 
