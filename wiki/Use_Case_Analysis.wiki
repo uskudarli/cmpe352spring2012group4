@@ -157,7 +157,7 @@ UC11 - Check membership availability    *Başak*
 
      • 
 
-*UC6 – Recommend interest*
+===*UC6 – Recommend interest*===
 
 *Name: *
 
