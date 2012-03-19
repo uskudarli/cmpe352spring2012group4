@@ -32,7 +32,7 @@ UC11 - Check membership availability
 
 ----
 
-*UC1 – Register*  *Başak*
+===*UC1 – Register* === *Başak*
 
 *Name:* Register
 
@@ -207,10 +207,29 @@ UC11 - Check membership availability
 
 *UC9 - Invite people to an event*
 
-•
+*Name: *
+
+*Actors: *
+
+*Goal:* 
+
+*Preconditions: *
+
+     •
+ 
+*Steps: *
+
+     •  
+
+     •  
+
+     • 
+
+*Postconditions:*
+
+     • 
 
 *UC10 - Check e-mail validity* Tuncay
-
 
 *Name:* E-mail Validity
 
@@ -257,6 +276,8 @@ UC11 - Check membership availability
      • 
 
 *Postconditions:* 
+
+     • 
 
 ----
 
