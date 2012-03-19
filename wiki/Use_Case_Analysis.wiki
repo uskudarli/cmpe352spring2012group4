@@ -315,10 +315,10 @@ UC11 - Check membership availability    *Başak*
 
 ==Use Case Scenarios:==
 
-  # A new user whose main interest is making old style kites registers to the site. System recommends people and communities for this person whom he might enjoy.
+  *1)* A new user whose main interest is making old style kites registers to the site. System recommends people and communities for this person whom he might enjoy.
 
 
-  * User enters his name, surname, e-mail and a password.
+  * User *registers* by entering his name, surname, e-mail and a password.
 
   * The e-mail entered does not contain the symbol “@”.
 
@@ -335,4 +335,4 @@ UC11 - Check membership availability    *Başak*
   * On the user’s homepage, another profile appears as a person recommendation because he has some common interests with him including “making old style kites”.
 
 
-  # A user wants to setup a BarCamp organization about Jquerry.
+  *2)* A user wants to setup a BarCamp organization about Jquerry.
