@@ -168,7 +168,7 @@
 
 *   2.2.12. System Availablity *
 
-  _2.2.12.1. The user interface of the system shall be viewed properly by Mozilla Firefox and Google Chrome._
+  _2.2.12.1. The user interface of the system shall be supported by Mozilla Firefox and Google Chrome._
 
   _2.2.12.2. The user interface of the system shall be available during day and the maintanance shall be performed in the nights._
 
