@@ -268,7 +268,7 @@ UC11 - Check membership availability    *Başak*
 
 *Postconditions:*
 
-     • 
+     • System will create a notification about the event on the invited user's page.
 
 ===UC10 - Check e-mail validity===
 
