@@ -32,82 +32,82 @@
 
 	_2.1.3.3. Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers)._
 
-  _ 2.1.4.1. The system shall list the subinterests below each area of interest when clicked._ (For example users should be able to click and start the *My Playlists* app below the music section)._
+        _ 2.1.3.4. The system shall list the subinterests below each area of interest when clicked._ (For example users should be able to click and start the *My Playlists* app below the music section)._
 
 
-*   2.1.5. Discussion forum*
+*   2.1.4. Discussion forum*
 
-   2.1.5.1. A member should be able to start a new discussion topic.
+   2.1.4.1. A member should be able to start a new discussion topic.
 
-        2.1.5.1.1. The member shall write a related topic about his/her post.
+        2.1.4.1.1. The member shall write a related topic about his/her post.
 
-        2.1.5.1.2. The member shall choose the related interests to specify the target audience.
+        2.1.4.1.2. The member shall choose the related interests to specify the target audience.
 
-        2.1.5.1.3. The member shall post the content.
+        2.1.4.1.3. The member shall post the content.
 
-   2.1.5.2. A member should be able to reply.
+   2.1.4.2. A member should be able to reply.
 
-*   2.1.6. Surveys*
+*   2.1.5. Surveys*
 
-   2.1.6.1. A member should be able to create a survey.
+   2.1.5.1. A member should be able to create a survey.
 
-     2.1.6.1.1. The member shall choose the related interests to specify the target audience.
+     2.1.5.1.1. The member shall choose the related interests to specify the target audience.
 
-     2.1.6.1.2.  The member shall specify the duration of the survey.
+     2.1.5.1.2.  The member shall specify the duration of the survey.
 
-   2.1.6.2. The owner of the survey should specify whether and when the results of the survey are visible.
+   2.1.5.2. The owner of the survey should specify whether and when the results of the survey are visible.
 
-*   2.1.7. Subscription to areas of interests and forums*
+*   2.1.6. Subscription to areas of interests and forums*
 
-   2.1.7.1. A member shall be able to subscribe to areas of interests.
+   2.1.6.1. A member shall be able to subscribe to areas of interests.
 
-   2.1.7.2. A member shall be able to subscribe to the topics in forums.
+   2.1.6.2. A member shall be able to subscribe to the topics in forums.
 
-*   2.1.8. Search/Advanced search*
+*   2.1.7. Search/Advanced search*
 
-  _ 2.1.8.1. A member shall search for a person, survey, interest, discussion topic._
+  _ 2.1.7.1. A member shall search for a person, survey, interest, discussion topic._
 
-  _ 2.1.8.2. A member shall filter the result of search by using advanced search by using search tags and category tags._
+  _ 2.1.7.2. A member shall filter the result of search by using advanced search by using search tags and category tags._
 
-*   2.1.9. Browsing*
+*   2.1.8. Browsing*
 
-   2.1.9.1. Users should be able to view the website's homepage.
+   2.1.8.1. Users should be able to view the website's homepage.
 
-   2.1.9.2. Users should be able to view the forums, surveys and discussions.
+   2.1.8.2. Users should be able to view the forums, surveys and discussions.
 
-   2.1.9.3. Users should be able to view the other members' profiles if allowed.
+   2.1.8.3. Users should be able to view the other members' profiles if allowed.
 
-   2.1.9.4. The system shall redirect the users when a link of a different website is clicked by them.
+   2.1.8.4. The system shall redirect the users when a link of a different website is clicked by them.
 
-*   2.1.10. Notification from subscriptions*
+*   2.1.9. Notification from subscriptions*
    
-  _ 2.1.10.1. There will be a page for each user where he will be able to check his notification list. _
+  _ 2.1.9.1. There will be a page for each user where he will be able to check his notification list. _
 
-  _ 2.1.10.2. The user will be able to see the number of unread notifications on his home page._
+  _ 2.1.9.2. The user will be able to see the number of unread notifications on his home page._
 
-   2.1.10.3. A member shall get the notifications for the newest posts about his/her subscribed interests.
+   2.1.9.3. A member shall get the notifications for the newest posts about his/her subscribed interests.
 
-  2.1.10.4. A member shall get the notifications for the newest comments about the topics he/she created.
+  2.1.9.4. A member shall get the notifications for the newest comments about the topics he/she created.
 
-  2.1.10.5. A member shall get the notifications for the result of the surveys he/she created.
+  2.1.9.5. A member shall get the notifications for the result of the surveys he/she created.
 
-*   2.1.11. Events*
+*   2.1.10. Events*
 
-  2.1.11.1. A member should be able to create an event.
+  2.1.10.1. A member should be able to create an event.
 	
-  2.1.11.2. The creator of the event shall decide the information about the event like time,place,duration,other details.
+  2.1.10.2. The creator of the event shall decide the information about the event like time,place,duration,other details.
 	
-  2.1.11.3. The creator of the event  shall decide the privacy level of the event like whether it will be secret or public and whether it will be invite-only or every guest will be able to invite other members. 
+  2.1.10.3. The creator of the event  shall decide the privacy level of the event like whether it will be secret or public and whether it will be invite-only or every guest will be able to invite other members. 
 
-  2.1.11.4. The members of the event should be able to write on the event page,add links,upload photos or videos.
+  2.1.10.4. The members of the event should be able to write on the event page,add links,upload photos or videos.
 
-*   2.1.12. Settings*
+*   2.1.11. Settings*
 
-  2.1.12.1. There shall be account and privacy settings sections.
+  2.1.11.1. There shall be account and privacy settings sections.
 
-*   2.1.13. Help*
+*   2.1.12. Help*
 
-  2.1.13.1. There should be a documentation about how to use the application.
+  2.1.12.1. There should be a documentation about how to use the application.
 
 
 ===2.2 NON-FUNCTIONAL REQUIREMENTS===
