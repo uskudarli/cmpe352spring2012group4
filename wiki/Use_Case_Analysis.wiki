@@ -135,15 +135,47 @@ UC11 - Check membership availability
 
 ===UC5 – Recommend person===
 
+*Name: *
+
+*Actors: *
+
+*Goal:* 
+
+*Preconditions: *
+
+     •
+ 
+*Steps: *
+
      •	System will determine the people who have similar interests with the user.
 
      •	These people will appear on the recommended people section.
 
+*Postconditions:*
+
+     • 
+
 *UC6 – Recommend interest*
+
+*Name: *
+
+*Actors: *
+
+*Goal:* 
+
+*Preconditions: *
+
+     •
+ 
+*Steps: *
 
      •	System will determine other interests which have the similar tags with the user’s interests.
 
      •	These interests will be appear on the recommended interests section.
+
+*Postconditions:*
+
+     • 
 
 ===UC7 – Create an event===
 
