@@ -28,6 +28,9 @@ UC10 - Check e-mail validity
 
 *UC1 – Register*
 
+*Name:* Register
+*Actors:* All users and admins
+*Goal:* To create a 
 •	User will enter his basic personal information (name, surname, e-mail, password).
 
 •	System will add the information into the database and want the user to verify his e-mail.
