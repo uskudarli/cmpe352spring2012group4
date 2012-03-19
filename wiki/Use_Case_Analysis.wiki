@@ -82,7 +82,7 @@ UC10 - Check e-mail validity
 
 *Preconditions:*
 
-     •  To be a registered user or an admin
+     •  To be a registered user or an admin who is logged in.
 
 *Steps:*
 
