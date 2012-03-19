@@ -1,4 +1,0 @@
-|| tablo baslik ||
-|| sutun 1 || sutun 2 ||
-|| icerik || icerik ||
-|| deneme deneme deneme deneme || 123 ||
