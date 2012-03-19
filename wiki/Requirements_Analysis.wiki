@@ -38,15 +38,15 @@
 
 	2.1.3.6. Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
 
-*  _ 2.1.4. Special purpose structures for the area of interest*
+*  _ 2.1.4. Special purpose structures for the area of interest*_
 
-   2.1.4.1. The system shall list the related applications below each area of interest when clicked.
+  _ 2.1.4.1. The system shall list the related applications below each area of interest when clicked._
 
-   2.1.4.2. Users should be able to view and use those applications.
+  _ 2.1.4.2. Users should be able to view and use those applications._
 
-   2.1.4.3. Users should be able to click and start the *My Playlists* app below the music section.
+ _  2.1.4.3. Users should be able to click and start the *My Playlists* app below the music section._
 
-   2.1.4.4. Users should be able to add music playlists and share them by the *My Playlists* application._
+  _ 2.1.4.4. Users should be able to add music playlists and share them by the *My Playlists* application._
 
 
 *   2.1.5. Discussion forum*
