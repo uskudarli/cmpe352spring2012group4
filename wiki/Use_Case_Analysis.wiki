@@ -1,13 +1,71 @@
-#summary One-sentence summary of this page.
+=USE CASE ANALYSIS=
 
-= Introduction =
+==Use Case Diagram:==
 
-Add your content here.
+Şekil.
 
+==Use Cases:==
 
-= Details =
+UC1 – Register
+UC2 – Log in
+UC3 – Create an interest
+UC4 – Subscribe to an interest
+UC5 – Recommend person
+UC6 – Recommend interest
+UC7 – Create an event
+UC8 – Manage interest pages
+UC9 - Invite people to an event
+UC10 - Check e-mail validity
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+UC1 – Register
+•	User will enter his basic personal information (name, surname, e-mail, password).
+•	System will add the information into the database and want the user to verify his e-mail.
+•	User will verify his e-mail.
+
+UC2 – Log in
+•	User will enter his e-mail and password, then click log in button.
+•	System will check the information.
+•	System will direct the user to the home page.
+
+UC3 – Create an interest
+•	User will go to “Interests” page from the link on the home page.
+•	User will click the “Create an interest” button.
+•	User will choose the related category tags (pre-specified finite set of tags supplied by the administrator) such as music, sports, arts etc…
+•	User will be able to write down related search tags(user is free to enter any words).
+•	User will enter the information about the interest (and upload a profile Picture if he wants).
+
+UC4 – Subscribe to an interest
+•	User will search an interest via entering its name in the search bar.
+•	Among the search results, he will choose an entry and go to that interest’s page.
+•	User will click on subscribe button.
+•	The interest’s page will be added to his profile.
+
+UC5 – Recommend person
+•	System will determine the people who have similar interests with the user.
+•	These people will appear on the recommended people section.
+
+UC6 – Recommend interest
+•	System will determine other interests which have the similar tags with the user’s interests.
+•	These interests will be appear on the recommended interests section.
+
+UC7 – Create an event
+•	User will go to “Events” page from the link on the home page.
+•	User will click the “Create an event” button.
+•	User will enter the information about the event (name, place, time etc…)
+•	User will choose the related interests.
+•	User can invite people to the event by clicking on the “Invite” button.
+•	System will create a notification about the event on other people’s (who has the same interest) home page.
+
+UC8 – Manage interest pages
+•
+
+UC9 - Invite people to an event
+•
+
+UC10 - Check e-mail validity
+•
+
+==Use Case Scenarios:==
+
+•	A new user whose main interest is making old style kites registers to the site. System recommends people and communities for this person whom he might enjoy.
+•	A user wants to setup a BarCamp organization about Jquerry.
