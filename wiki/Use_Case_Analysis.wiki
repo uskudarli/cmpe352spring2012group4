@@ -20,7 +20,7 @@ UC5 – Recommend person
 
 UC6 – Recommend interest
 
-[WikiSyntax#UC7_–_Create_an_event_Semih]
+UC7 – Create an event    * Semih*
 
 UC8 – Manage interest pages    *Tuncay*
 
