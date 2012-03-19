@@ -354,8 +354,16 @@
 
   _2. A user wants to setup a BarCamp organization about Jquerry._
 
-  * 
+      Corresponding action sequence by use cases:
 
-  * 
+ * User registers by entering his name, surname, e-mail and a password.
+ 
+ * Admin checks the membership availability and accepts the user as a CMPE community member.
 
-  * 
+ * User *creates an event* with the name "BarCamp Organization About jQuery" specifying the related interests tags as "programming" and "Web applications".
+ 
+ * System checks the existence of an event with the same name and confirms the creation of that event.
+
+ * User *invites people* he/she already knew and registered to the system.
+ 
+ * Users subscribed to "programming" and "Web applications" interests will see the event in the events sections of their home pages.
