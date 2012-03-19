@@ -102,13 +102,30 @@ UC11 - Check membership availability
 
 *UC4 – Subscribe to an interest* Semih
 
-•	User will search an interest via entering its name in the search bar.
+*Name:*  Subscribe to an interest 
 
-•	Among the search results, he will choose an entry and go to that interest’s page.
+*Actors:* All Users
 
-•	User will click on subscribe button.
+*Goal:* To allow all users to subscribe to an interest
 
-•	The interest’s page will be added to his profile.
+*Preconditions:*
+
+•The registered user should log in the system.  
+
+•The interest that the user want to subscribe should be already exist.
+
+*Steps:*
+
+•User will search an interest via entering its name in the search bar.
+
+•Among the search results, he will choose an entry and go to that interest’s page.
+
+•User will click on subscribe button.
+
+*Postconditions*:
+
+•The interest’s page will be added to his profile.
+
 
 *UC5 – Recommend person*
 
