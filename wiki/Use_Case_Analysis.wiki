@@ -242,7 +242,7 @@
 
 *Postconditions:* 
 
-     •	Admin should approve the request to be added to the database.
+     •	Interest name will be added to the database.
 
 
 
@@ -301,7 +301,7 @@
 
 *Postconditions:* 
 
-     •	Admin should approve the request to be added to the database.
+     •	The e-mail address will be added to the database after approval.
 
 ===UC11-Check membership availability===
 
