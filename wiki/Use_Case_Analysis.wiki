@@ -169,8 +169,35 @@ UC10 - Check e-mail validity
 •
 
 *UC10 - Check e-mail validity* Tuncay
+*UC10 - Check e-mail validity*
 
-•
+
+*Name:* E-mail Validity
+
+*Actors:* System (Database)
+
+*Goal:* To allow a user to create a new account with a valid e-mail
+
+*Preconditions:* 
+
+•	The e-mail address that the user wants to use shouldn't be already exist.
+
+•	The e-mail address that the user wants to use should be a logical address(not a space or something written randomly) .
+
+
+*Steps:*
+
+     •	User will enter his/her email address.
+
+     •	Admin will approve the email address.
+
+     •	System will add the new email into the database if it is approved by the admin.
+
+
+*Postconditions:* 
+
+     •	Admin should approve the request to be added to the database.
+
 
 ==Use Case Scenarios:==
 
