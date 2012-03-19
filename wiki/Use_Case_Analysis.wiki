@@ -34,15 +34,17 @@ UC10 - Check e-mail validity
 
 *Goal:* To create a user space for every user and admin
 
+*Preconditions:* 
+
 *Steps:*
 
-•	User will enter his basic personal information (name, surname, e-mail, password).
+     •	User will enter his basic personal information (name, surname, e-mail, password).
 
-•	System will add the information into the database and want the user to verify his e-mail.
+     •	System will add the information into the database and want the user to verify his e-mail.
 
-•	User will verify his e-mail.
+     •	User will verify his e-mail.
 
-*Post Conditions:* 
+*Postconditions:* 
 
 *UC2 – Log in*   *Başak*
 
