@@ -116,7 +116,7 @@
 
 *   2.2.2. Modifiability *
 
-  2.2.2.1. The system shall be designed so that the developers can modify it to respond the varying needs of users.
+  2.2.2.1. The system should be designed so that the developers can modify it to respond the varying needs of users.
 
 *   2.2.3. Portability*
 
@@ -140,7 +140,7 @@
 
 *   2.2.8. Response Time *
 
-  _2.2.8.1. Response time of the wep pages of this application should be low and database queries shall be responsed quickly in a few seconds._
+  _2.2.8.1. Response time of the wep pages and database queries should be less than five seconds with an average quality Internet connection._
 
 *   2.2.9. Reliability *
 
@@ -148,7 +148,7 @@
 
 *   2.2.11. Expected Activity *
 
-  _2.2.11.1. The expected user activity for the first months are expected to be low because the webpage will be new for cmpe community, but in a couple of months it will be expected to be higher._
+  _2.2.11.1. Since the CmpE community is limited in number, user transaction per second will have an upper bound of the number of the people in the department, assuming a user can make one transaction per second._
 
 *   2.2.12. System Availablity *
 
@@ -158,6 +158,6 @@
 
 *   2.2.13. Physical Requirements *
 
-  _2.2.13.1. System shall be written in Windows or Linux operating systems._
+  _2.2.13.1. System shall be written using an IDE in Windows or Linux operating systems._
 
   _2.2.13.2. System shall be written by using Java and MySql programming languages._
