@@ -20,7 +20,7 @@ UC5 – Recommend person *Ayşegül*
 
 UC6 – Recommend interest *Ayşegül*
 
-[#UC7_-_Create_an_event]  * Semih*
+[UC7_-_Create_an_event]  * Semih*
 
 UC8 – Manage interest pages    *Tuncay*
 
