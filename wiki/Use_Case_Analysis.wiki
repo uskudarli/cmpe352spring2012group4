@@ -20,7 +20,7 @@ UC5 – Recommend person
 
 UC6 – Recommend interest
 
-[#UC7–Create_an_event]  * Semih*
+[#UC7_-_Create_an_event]  * Semih*
 
 UC8 – Manage interest pages    *Tuncay*
 
@@ -179,7 +179,7 @@ UC11 - Check membership availability    *Başak*
 
      • 
 
-===UC7 – Create an event===
+===UC7 - Create an event===
 
 *Name:* Create an Event
 
