@@ -56,7 +56,7 @@ UC10 - Check e-mail validity
 
 *Actors:* All users and admins
 
-*Goal:* 
+*Goal:* To introduce the user to the system.
 
 *Preconditions:* 
 
