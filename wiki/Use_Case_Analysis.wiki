@@ -98,7 +98,7 @@ UC10 - Check e-mail validity
 
 *Postconditions:*
 
-*UC4 – Subscribe to an interest*
+*UC4 – Subscribe to an interest* Semih
 
 •	User will search an interest via entering its name in the search bar.
 
