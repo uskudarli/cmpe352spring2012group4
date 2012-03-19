@@ -232,7 +232,26 @@ UC11 - Check membership availability
 
 *UC11 - Check membership availability*
 
+*Name: *
 
+*Actors: *
+
+*Goal:* 
+
+*Preconditions: *
+
+• 
+*Steps: *
+
+•  
+
+•  
+
+• 
+
+*Postconditions:* 
+
+ 
 ==Use Case Scenarios:==
 
 •	A new user whose main interest is making old style kites registers to the site. System recommends people and communities for this person whom he might enjoy.
