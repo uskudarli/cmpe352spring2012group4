@@ -79,9 +79,9 @@
 
 *   2.1.8. Search/Advanced search*
 
-   2.1.8.1. A member shall search for a person, survey, interest, topic.
+   2.1.8.1. A member shall search for a person, survey, interest, discussion topic.
 
-   2.1.8.2. A member shall filter the result of search by using advanced search.
+   2.1.8.2. A member shall filter the result of search by using advanced search by using search tags and category tags.
 
 *   2.1.9. Browsing*
 
@@ -94,12 +94,16 @@
    2.1.9.4. The system shall redirect the users when a link of a different website is clicked by them.
 
 *   2.1.10. Notification from subscriptions*
+   
+   2.1.10.1. There will be a page for each user where he will be able to check his notification list. 
 
-   2.1.10.1. A member shall get the notifications for the newest posts about his/her subscribed interests.
+   2.1.10.2. The user will be able to see the number of unread notifications on his home page.
 
-  2.1.10.2. A member shall get the notifications for the newest comments about the topics he/she created.
+   2.1.10.3. A member shall get the notifications for the newest posts about his/her subscribed interests.
 
-  2.1.10.3. A member shall get the notifications for the result of the surveys he/she created.
+  2.1.10.4. A member shall get the notifications for the newest comments about the topics he/she created.
+
+  2.1.10.5. A member shall get the notifications for the result of the surveys he/she created.
 
 *   2.1.11. Events*
 
