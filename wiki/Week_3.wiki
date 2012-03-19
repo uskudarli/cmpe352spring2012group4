@@ -25,7 +25,7 @@ Hakan, Başak, Gül, Semih, Enes, Sabri, Tuncay, Ayşegül
 
 *Decisions*
 
-  *  (result: we will have a common interest structure for which the creator of the interest will enter the "search tags" and the "category tags")
+  *  We will have a common interest structure for which the creator of the interest will enter the "search tags" and the "category tags".
 
   * Each person is responsible for detailing two use cases.
 
