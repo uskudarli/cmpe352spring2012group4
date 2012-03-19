@@ -8,9 +8,9 @@
 
 ==Use Cases:==
 
-[#UC1_-_Register] *Başak*
+[#UC1-Register] *Başak*
 
-[#UC2_-_Log_in] *Başak*
+[#UC2-Log_in] *Başak*
 
 [#UC3_-_Create_an_interest] *Sabri*
 
@@ -32,7 +32,7 @@
 
 ----
 
-=== UC1 - Register === 
+=== UC1-Register === 
 
 *Name:* Register
 
@@ -58,7 +58,7 @@
 
      •  System will create a profile page for the user.
 
-===UC2 - Log in===
+===UC2-Log in===
 
 *Name:* Log in
 
