@@ -120,7 +120,7 @@ UC10 - Check e-mail validity
 
 •	These interests will be appear on the recommended interests section.
 
-*UC7 – Create an event*
+*UC7 – Create an event* Semih
 
 •	User will go to “Events” page from the link on the home page.
 
