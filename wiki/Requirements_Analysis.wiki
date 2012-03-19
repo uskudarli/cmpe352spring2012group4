@@ -65,9 +65,9 @@
 
    2.1.6.1. A member should be able to create a survey.
 
-     * The member shall choose the related interests to specify the target audience.
+     2.1.6.1.1. The member shall choose the related interests to specify the target audience.
 
-     * The member shall specify the duration of the survey.
+     2.1.6.1.2.  The member shall specify the duration of the survey.
 
    2.1.6.2. The owner of the survey should specify whether and when the results of the survey are visible.
 
