@@ -26,7 +26,7 @@ UC9 - Invite people to an event
 
 UC10 - Check e-mail validity
 
-*UC1 – Register*
+*UC1 – Register*  *Başak*
 
 *Name:* Register
 *Actors:* All users and admins
@@ -37,7 +37,7 @@ UC10 - Check e-mail validity
 
 •	User will verify his e-mail.
 
-*UC2 – Log in*
+*UC2 – Log in*   *Başak*
 
 •	User will enter his e-mail and password, then click log in button.
 
