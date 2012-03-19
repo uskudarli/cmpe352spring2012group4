@@ -102,7 +102,7 @@ UC10 - Check e-mail validity
 
 •	System will create a notification about the event on other people’s (who has the same interest) home page.
 
-*UC8 – Manage interest pages*
+*UC8 – Manage interest pages* Tuncay
 
 •
 
@@ -110,7 +110,7 @@ UC10 - Check e-mail validity
 
 •
 
-*UC10 - Check e-mail validity*
+*UC10 - Check e-mail validity* Tuncay
 
 •
 
