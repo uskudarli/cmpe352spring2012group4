@@ -110,34 +110,34 @@ UC11 - Check membership availability
 
 *Preconditions:*
 
-•The registered user should log in the system.  
+    •The registered user should log in the system.  
 
-•The interest that the user want to subscribe should be already exist.
+    •The interest that the user want to subscribe should be already exist.
 
 *Steps:*
 
-•User will search an interest via entering its name in the search bar.
+     •User will search an interest via entering its name in the search bar.
 
-•Among the search results, he will choose an entry and go to that interest’s page.
+     •Among the search results, he will choose an entry and go to that interest’s page.
 
-•User will click on subscribe button.
+     •User will click on subscribe button.
 
 *Postconditions*:
 
-•The interest’s page will be added to his profile.
+     •The interest’s page will be added to his profile.
 
 
 *UC5 – Recommend person*
 
-•	System will determine the people who have similar interests with the user.
+     •	System will determine the people who have similar interests with the user.
 
-•	These people will appear on the recommended people section.
+     •	These people will appear on the recommended people section.
 
 *UC6 – Recommend interest*
 
-•	System will determine other interests which have the similar tags with the user’s interests.
+     •	System will determine other interests which have the similar tags with the user’s interests.
 
-•	These interests will be appear on the recommended interests section.
+     •	These interests will be appear on the recommended interests section.
 
 *UC7 – Create an event* Semih
 
@@ -149,22 +149,22 @@ UC11 - Check membership availability
 
 *Preconditions:*
 
-•The registered user or the admin should log in the system.  
+     •  The registered user or the admin should log in the system.  
 
-•The event that the user or the admin want to create should not be already exist
+     •  The event that the user or the admin want to create should not be already exist
 
 *Steps:*
 
 
-•	User will go to “Events” page from the link on the home page.
+     •	User will go to “Events” page from the link on the home page.
 
-•	User will click the “Create an event” button.
+     •	User will click the “Create an event” button.
 
-•	User will enter the information about the event (name, place, time etc…)
+     •	User will enter the information about the event (name, place, time etc…)
 
-•	User will choose the related interests.
+     •	User will choose the related interests.
 
-•	User can invite people to the event by clicking on the “Invite” button.
+     •	User can invite people to the event by clicking on the “Invite” button.
 
 *Postconditions*:
 
@@ -180,9 +180,9 @@ UC11 - Check membership availability
 
 *Preconditions:* 
 
-•	The interest that the user wants to create shouldn't be already exist.
+     •	The interest that the user wants to create shouldn't be already exist.
 
-•	The interest that the user wants to create should be a valid activity.
+     •	The interest that the user wants to create should be a valid activity.
 
 *Steps:*
 
@@ -214,9 +214,9 @@ UC11 - Check membership availability
 
 *Preconditions:* 
 
-•	The e-mail address that the user wants to use shouldn't be already exist.
+     •	The e-mail address that the user wants to use shouldn't be already exist.
 
-•	The e-mail address that the user wants to use should be a logical address(not a space or something written randomly) .
+     •	The e-mail address that the user wants to use should be a logical address(not a space or something written randomly) .
 
 
 *Steps:*
@@ -240,14 +240,15 @@ UC11 - Check membership availability
 
 *Preconditions: *
 
-• 
+     •
+ 
 *Steps: *
 
-•  
+     •  
 
-•  
+     •  
 
-• 
+     • 
 
 *Postconditions:* 
 
