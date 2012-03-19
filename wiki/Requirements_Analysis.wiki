@@ -153,3 +153,25 @@
 *   2.2.7. Language*
 
   2.2.7.1. In the early stage, the application shall be in English for everybody including foreigners to understand.
+
+*   2.2.8. Response Time *
+
+  2.2.8.1. Response time of the wep pages of this application should be low and database queries shall be responsed quickly in a few seconds.
+
+*   2.2.9. Reliability *
+
+  2.2.9.1. All the records and database shall be copied for possible failures. 
+
+*   2.2.11. Expected Activity *
+
+  2.2.11.1. The expected user activity for the first months are expected to be low because our webpage will be new for cmpe community, but in a couple of months it will be expected to be higher.
+
+*   2.2.12. System Availablity *
+
+  2.2.12.1. The user interface of the system shall be viewed properly by Mozilla Firefox and Google Chrome.
+
+*   2.2.13. Physical Requirmeents *
+
+  2.2.13.1. Members shall be able to use Windows operating system 
+
+  2.2.13.2. System shall be written by using Java and MySql programming languages
