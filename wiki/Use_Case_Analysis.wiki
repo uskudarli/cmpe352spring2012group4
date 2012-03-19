@@ -58,7 +58,7 @@ UC11 - Check membership availability
 
      •  System will create a profile page for the user.
 
-*UC2 – Log in*   *Başak*
+===UC2 – Log in===
 
 *Name:* Log in
 
@@ -80,7 +80,7 @@ UC11 - Check membership availability
 
      •	System will direct the user to the home page.
 
-*UC3 – Create an interest*  *Sabri*
+===UC3 – Create an interest===
 
 *Name:* Create an interest
 
@@ -106,7 +106,7 @@ UC11 - Check membership availability
 
 *Postconditions:*
 
-*UC4 – Subscribe to an interest* Semih
+===UC4 – Subscribe to an interest===
 
 *Name:*  Subscribe to an interest 
 
@@ -133,7 +133,7 @@ UC11 - Check membership availability
      •The interest’s page will be added to his profile.
 
 
-*UC5 – Recommend person*
+===UC5 – Recommend person===
 
      •	System will determine the people who have similar interests with the user.
 
@@ -145,7 +145,7 @@ UC11 - Check membership availability
 
      •	These interests will be appear on the recommended interests section.
 
-*UC7 – Create an event* Semih
+===UC7 – Create an event===
 
 *Name:* Create an Event
 
@@ -176,7 +176,7 @@ UC11 - Check membership availability
 
      •	System will create a notification about the event on other people’s (who has the same interest) home page
 
-*UC8 – Manage interest pages* Tuncay
+===UC8 – Manage interest pages===
 
 *Name:* Manage Interests
 
@@ -205,7 +205,7 @@ UC11 - Check membership availability
 
 
 
-*UC9 - Invite people to an event*
+===UC9 - Invite people to an event===
 
 *Name: *
 
@@ -229,7 +229,7 @@ UC11 - Check membership availability
 
      • 
 
-*UC10 - Check e-mail validity* Tuncay
+===UC10 - Check e-mail validity===
 
 *Name:* E-mail Validity
 
@@ -255,7 +255,7 @@ UC11 - Check membership availability
 
      •	Admin should approve the request to be added to the database.
 
-*UC11 - Check membership availability*
+===UC11 - Check membership availability===
 
 *Name: *
 
