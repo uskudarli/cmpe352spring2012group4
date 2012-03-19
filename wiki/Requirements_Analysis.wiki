@@ -12,32 +12,27 @@
 
 *   2.1.1. Member profiles*
 
-   2.1.1.1. Each member shall have their information fields such as:
-
-   2.1.1.2. Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Connections, Education, Work etc, Graduation Year etc.
+   2.1.1.1. Each member shall have their information fields such as: Name, Title(student, instructor, graduate…), Birthday, E-mail, Telephone, Gender, Interests, Connections, Education, Work etc, Graduation Year etc.
 
 *   2.1.2. Home page*
 
    2.1.2.1. The user shall go to the home page after logging in.
 
-   2.1.2.2. Latest discussions, current events, new posts to various interests should appear here.
+   2.1.2.2. Latest discussions, current events, new posts to various interests should appear home page.
 
    2.1.2.3. The posts to interests that appear on the home page should be the ones followed by the specific user.
 
    2.1.2.4. There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
 
-   2.1.2.5. Subsections of interests should appear below.
-
-[http://cmpe352spring2012group4.googlecode.com/files/Home.jpg]
 
 *   2.1.3. Creation of a space for special interests*
 	2.1.3.1. Each member profile shall include a space for special interests specific to that person.
 
-	2.1.3.2. Space for special interests should include subsections.
+	_2.1.3.2. Space for special interests should include subsections._
 
-	2.1.3.3. At the launching stage these subsections should be limited to music, movies, books and others, in order to keep design simple and understandable by new users.
+	_2.1.3.3. At the launching stage these subsections should be limited to music, movies, books and others, in order to keep design simple and understandable by new users._
 
-	2.1.3.4. Each member should be able to share information about their special interests via space for special interests.
+	2.1.3.4. Each member should be able to share information about their special interests via space for special interests. 
 
 	2.1.3.5. System should support a specific format for each kind of special interests information given above. For example, when sharing musical interests, the specific format should include tags like artist, album, year, genre etc.
 
