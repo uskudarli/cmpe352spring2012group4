@@ -367,4 +367,4 @@
 
  * User *invites people* he/she already knew and registered to the system.
  
- * Users subscribed to "programming" and "Web applications" interests will see the event in the events sections of their home pages.
+ * Users subscribed to "programming" and "Web applications" interests and users who are invited to the event will *get a notification about the event*.
