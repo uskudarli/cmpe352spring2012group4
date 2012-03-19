@@ -16,9 +16,9 @@ UC3 – Create an interest     *Sabri*
 
 UC4 – Subscribe to an interest    *Semih*
 
-UC5 – Recommend person
+UC5 – Recommend person *Ayşegül*
 
-UC6 – Recommend interest
+UC6 – Recommend interest *Ayşegül*
 
 [#UC7 - Create an event]  * Semih*
 
