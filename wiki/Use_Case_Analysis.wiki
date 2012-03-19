@@ -4,6 +4,8 @@
 
 [http://cmpe352spring2012group4.googlecode.com/files/UseCaseDiagram3.jpg]
 
+----
+
 ==Use Cases:==
 
 UC1 – Register
@@ -27,6 +29,8 @@ UC9 - Invite people to an event
 UC10 - Check e-mail validity
 
 UC11 - Check membership availability
+
+----
 
 *UC1 – Register*  *Başak*
 
@@ -168,7 +172,7 @@ UC11 - Check membership availability
 
 *Postconditions*:
 
-•	System will create a notification about the event on other people’s (who has the same interest) home page
+     •	System will create a notification about the event on other people’s (who has the same interest) home page
 
 *UC8 – Manage interest pages* Tuncay
 
@@ -252,7 +256,8 @@ UC11 - Check membership availability
 
 *Postconditions:* 
 
- 
+----
+
 ==Use Case Scenarios:==
 
 •	A new user whose main interest is making old style kites registers to the site. System recommends people and communities for this person whom he might enjoy.
