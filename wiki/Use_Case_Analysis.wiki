@@ -318,7 +318,7 @@ UC11 - Check membership availability    *Başak*
   *1)* A new user whose main interest is making old style kites registers to the site. System recommends people and communities for this person whom he might enjoy.
 
 
-  * User *registers* by entering his name, surname, e-mail and a password.
+  * User registers by entering his name, surname, e-mail and a password.
 
   * The e-mail entered does not contain the symbol “@”.
 
