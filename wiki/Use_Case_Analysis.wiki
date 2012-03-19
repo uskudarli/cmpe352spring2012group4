@@ -52,7 +52,7 @@ UC11 - Check membership availability    *Başak*
 
      •	User will verify his e-mail and wait for the acceptance.
 
-     •  Admin will check the information of the user and whether the user is a cmpe community member. Then will activate his profile and send an e-mail to inform the user.
+     •  Admin will check the membership availability.
 
 *Postconditions:* 
 
