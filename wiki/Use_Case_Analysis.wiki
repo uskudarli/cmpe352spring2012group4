@@ -330,6 +330,8 @@ UC11 - Check membership availability    *Başak*
 
   * User *creates an interest* page by entering the name “making old style kites”, adds the category tags “arts”, “kite flying”, “old fashion” and adds the search tags as “old”, “kite”, “making kites”.
 
+  * User *subscribes to the interest* "making old style kites" that he has created.
+
   * On the user’s homepage, another interest “Gramophone” appears as an *interest recommendation* because it has the similar category tags “arts” and “old fashion” as well as the common “old” search tag.
 
   * On the user’s homepage, another profile appears as a *person recommendation* because he has some common interests with him including “making old style kites”.
