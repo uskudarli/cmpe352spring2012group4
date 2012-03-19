@@ -170,7 +170,9 @@
 
   2.2.12.1. The user interface of the system shall be viewed properly by Mozilla Firefox and Google Chrome.
 
-*   2.2.13. Physical Requirmeents *
+  2.2.12.2. The user interface of the system shall be available during day and the maintanance shall be performed in the nights.
+
+*   2.2.13. Physical Requirments *
 
   2.2.13.1. System shall be written in Windows or Linux operating systems
 
