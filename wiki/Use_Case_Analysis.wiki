@@ -8,27 +8,27 @@
 
 ==Use Cases:==
 
-[#UC1-Register] *Başak*
+[#UC1-Register] 
 
-[#UC2-Log_in] *Başak*
+[#UC2-Log_in] 
 
-[#UC3_-_Create_an_interest] *Sabri*
+[#UC3_-_Create_an_interest] 
 
-[#UC4_-_Subscribe_to_an_interest] *Semih*
+[#UC4_-_Subscribe_to_an_interest]
 
-[#UC5_-_Recommend_person] *Ayşegül*
+[#UC5_-_Recommend_person] 
 
-[#UC6_-_Recommend_interest] *Ayşegül*
+[#UC6_-_Recommend_interest] 
 
-[#UC7_-_Create_an_event] *Semih*
+[#UC7_-_Create_an_event] 
 
-[#UC8_-_Manage_interest_pages] *Tuncay*
+[#UC8_-_Manage_interest_pages] 
 
-[#UC9_-_Invite_people_to_an_event] *Ayşegül*
+[#UC9_-_Invite_people_to_an_event] 
 
-[#UC10_-_Check_e-mail_validity] *Tuncay*
+[#UC10_-_Check_e-mail_validity] 
 
-[#UC11_-_Check_membership_availability] *Başak*
+[#UC11_-_Check_membership_availability] 
 
 ----
 
