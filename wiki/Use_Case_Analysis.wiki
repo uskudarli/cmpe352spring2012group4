@@ -106,4 +106,4 @@ UC10 - Check e-mail validity
 
 •	A new user whose main interest is making old style kites registers to the site. System recommends people and communities for this person whom he might enjoy.
 
-•	A user wants to setup a {{{BarCamp}}} organization about Jquerry.
+•	A user wants to setup a BarCamp organization about Jquerry.
