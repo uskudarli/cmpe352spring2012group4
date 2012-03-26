@@ -12,6 +12,8 @@
 
 ===Activity Diagram for Scenario #2===
 
+[http://cmpe352spring2012group4.googlecode.com/files/activity2.jpg]
+
 =Sequence Diagrams=
 
 ===Sequence Diagram for Scenario #1===
