@@ -2,7 +2,7 @@
 
 [#Activity_Diagrams]
 
-[#Sequence Diagrams]
+[#Sequence_Diagrams]
 
 ==Activity Diagrams==
 
