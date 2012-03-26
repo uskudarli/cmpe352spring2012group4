@@ -29,7 +29,7 @@ Hakan, Başak, Gül, Semih, Enes, Sabri, Tuncay, Ayşegül
 
   * Başak is responsible for entering the issues for each person.
 
-  * Gül is responsible for drawing the 1st activity diagram by using a tool.
+  * Gül and Başak are responsible for drawing the 1st activity diagram by using a tool.
 
   * Semih is responsible for drawing the 2nd activity diagram by using a tool.
 
