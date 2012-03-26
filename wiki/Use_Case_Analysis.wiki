@@ -334,23 +334,23 @@
 
   *	Hakan is a Boğaziçi University Computer Engineering (CmpE) student. He has many diverse interests although he is an engineer. He wants to meet some other people from his department with whom he can share his interests. With this aim, he finds the social networking site “CmpE Community” and he discovers that there are many people registered to this site. After surfing a little bit in the site as a guest user and seeing there exist some of his interests in there, he decides to register.
 
-  * 	Hakan then registers to the system by entering his name, surname, e-mail and a password.
+  * 	Hakan then *registers* to the system by entering his name, surname, e-mail and a password.
 
   * 	By mistake, the e-mail he enters does not contain the symbol “@”.
 
-  *	System checks e-mail validity and asks Hakan to enter a valid e-mail address.
+  *	System *checks e-mail validity* and asks Hakan to enter a valid e-mail address.
 
   *	Hakan retries now with a valid e-mail address.
 
-  * 	Admin checks the membership availability and accepts Hakan as a CMPE community member.
+  * 	Admin *checks the membership availability* and accepts Hakan as a CMPE community member.
 
-  * 	He wants to create an interest “making old style kites”. Hakan sees that his main interest isn’t present in the site. So he decides to add it by entering page by entering the name “making old style kites”, adds the category tags “arts”, “kite flying”, “old fashion” and adds the search tags as “old”, “kite”, “making kites”.
+  * 	He wants to *create an interest* “making old style kites”. Hakan sees that his main interest isn’t present in the site. So he decides to add it by entering page by entering the name “making old style kites”, adds the category tags “arts”, “kite flying”, “old fashion” and adds the search tags as “old”, “kite”, “making kites”.
 
-  * 	Hakan then subscribes to the interest "making old style kites" that he has created.
+  * 	Hakan then *subscribes to the interest* "making old style kites" that he has created.
 
-  * 	On his homepage, another interest “Gramophone” appears as an interest recommendation because it has the similar category tags “arts” and “old fashion” as well as the common “old” search tag.
+  * 	On his homepage, another interest “Gramophone” appears as an *interest recommendation* because it has the similar category tags “arts” and “old fashion” as well as the common “old” search tag.
 
-  *	On his homepage, another profile “Başak” appears as a person recommendation because she has some common interests with him including “making old style kites”.
+  *	On his homepage, another profile “Başak” appears as a *person recommendation* because she has some common interests with him including “making old style kites”.
 
   _2. A user wants to setup a BarCamp organization about Jquerry._
 
