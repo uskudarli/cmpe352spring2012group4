@@ -16,4 +16,6 @@
 
 ==Sequence Diagram for Scenario #1==
 
+[http://cmpe352spring2012group4.googlecode.com/files/sequence1.jpg]
+
 ==Sequence Diagram for Scenario #2==
