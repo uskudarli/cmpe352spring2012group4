@@ -356,15 +356,16 @@
 
       Corresponding action sequence by use cases:
 
- * User *registers* by entering his name, surname, a valid e-mail and a password.
-
+ * Ayşe is a Boğaziçi University Computer Engineering (CmpE) student. She wants to meet people who are interested in jquery and arrange a great BarCamp organization about it.Since she hears a lot of good stuff about our website,she decides to register.
  
- * Admin *checks the membership availability* and accepts the user as a CMPE community member.
+ * Ayşe then registers to the system by entering her name, surname, e-mail and a password.
 
- * User *creates an event* with the name "BarCamp Organization About jQuery" specifying the related interests tags as "programming" and "Web applications".
+ * Admin *checks the membership availability* and accepts Ayşe as a CMPE community member.
+
+ * Ayşe *creates an event* with the name "BarCamp Organization About jQuery" specifying the related interests tags as "programming" and "Web applications".
  
  * System checks the existence of an event with the same name and confirms the creation of that event.
 
- * User *invites people* he/she already knew and registered to the system.
+ * Ayşe *invites people* he/she already knew and registered to the system.
  
  * Users subscribed to "programming" and "Web applications" interests and users who are invited to the event will *get a notification about the event*.
