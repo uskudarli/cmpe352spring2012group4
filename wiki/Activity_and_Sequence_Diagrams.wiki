@@ -1,8 +1,7 @@
 =Activity & Sequence Diagrams=
 
-[#Activity_Diagrams]
 
-[#Sequence_Diagrams]
+<wiki:toc max_depth="2" />
 
 ==Activity Diagrams==
 
