@@ -1,8 +1,8 @@
 =Activity & Sequence Diagrams=
 
-[Activity_Diagrams]
+[#Activity_Diagrams]
 
-[Sequence_Diagrams]
+[#Sequence_Diagrams]
 
 ==Activity Diagrams==
 
