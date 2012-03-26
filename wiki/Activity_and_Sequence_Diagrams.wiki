@@ -1,5 +1,7 @@
 =Activity & Sequence Diagrams=
+
 [#Activity_Diagrams]
+
 [#Sequence Diagrams]
 
 ==Activity Diagrams==
