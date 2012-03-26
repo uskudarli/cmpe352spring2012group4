@@ -1,20 +1,19 @@
-=Activity & Sequence Diagrams=
-
+*ACTIVITY & SEQUENCE DIAGRAMS*
 
 <wiki:toc max_depth="2" />
 
-==Activity Diagrams==
+=Activity Diagrams=
 
-===Activity Diagram for Scenario #1===
+==Activity Diagram for Scenario #1==
 
 [http://cmpe352spring2012group4.googlecode.com/files/activity1.jpg]
 
-===Activity Diagram for Scenario #2===
+==Activity Diagram for Scenario #2==
 
 [http://cmpe352spring2012group4.googlecode.com/files/activity2.jpg]
 
 =Sequence Diagrams=
 
-===Sequence Diagram for Scenario #1===
+==Sequence Diagram for Scenario #1==
 
-===Sequence Diagram for Scenario #2===
+==Sequence Diagram for Scenario #2==
