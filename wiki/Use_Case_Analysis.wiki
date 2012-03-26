@@ -366,6 +366,6 @@
  
  * System checks the existence of an event with the same name and confirms the creation of that event.
 
- * Ayşe *invites people* he/she already knew and registered to the system.
+ * Ayşe *invites people* she already knew and registered to the system.
  
  * Users subscribed to "programming" and "Web applications" interests and users who are invited to the event will *get a notification about the event*.
