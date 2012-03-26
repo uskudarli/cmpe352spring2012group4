@@ -31,6 +31,8 @@ Hakan, Başak, Gül, Semih, Enes, Sabri, Tuncay, Ayşegül
 
   * Gül and Başak are responsible for drawing the 1st activity diagram by using a tool.
 
-  * Semih is responsible for drawing the 2nd activity diagram by using a tool.
+  * Semih and Enes are responsible for drawing the 2nd activity diagram by using a tool.
+
+  * Tuncay and Sabri are responsible for drawing the 1st sequence diagram by using a tool.
 
   * Hakan is responsible for drawing the 2nd sequence diagram by using a tool.
