@@ -364,7 +364,7 @@
 
  * Ayşe *creates an event* with the name "BarCamp Organization About jQuery" specifying the related interests tags as "programming" and "Web applications".
  
- * System checks the existence of an event with the same name and confirms the creation of that event.
+ * System confirms the creation of that event.
 
  * Ayşe *invites people* she already knew and registered to the system.
  
