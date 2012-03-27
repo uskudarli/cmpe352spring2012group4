@@ -20,4 +20,4 @@
 
 ==Sequence Diagram for Scenario #2==
 
- 
+[http://cmpe352spring2012group4.googlecode.com/files/sequence2.jpg]
