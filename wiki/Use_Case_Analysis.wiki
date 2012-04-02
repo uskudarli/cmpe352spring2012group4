@@ -30,6 +30,8 @@
 
 [#UC11-Check_membership_availability] 
 
+[#UC12-Follow] 
+
 ----
 
 === UC1-Register === 
@@ -325,6 +327,10 @@
 *Postconditions:* 
 
      • User will be defined to the web page and will be able to log in successfully.
+
+
+=== UC12-Follow === 
+
 
 ----
 
