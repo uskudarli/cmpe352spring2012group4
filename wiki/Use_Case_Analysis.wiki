@@ -32,6 +32,7 @@
 
 [#UC12-Follow] 
 
+[#UC13-Authorize Follow] 
 ----
 
 === UC1-Register === 
@@ -331,6 +332,14 @@
 
 === UC12-Follow === 
 
+
+
+
+
+
+
+
+===UC13-Authorize Follow===
 
 ----
 
