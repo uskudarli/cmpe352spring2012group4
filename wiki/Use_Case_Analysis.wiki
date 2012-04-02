@@ -369,6 +369,9 @@
 
   *	On his homepage, another profile “Başak” appears as a *person recommendation* because she has some common interests with him including “making old style kites”.
 
+ *      Hakan decides to follow Başak because he thinks that it would be perfect to have been informed about someone who has similar interests with himself.He clicks on the follow request button and begins to waiting to be accepted.
+
+
   _2. A user wants to setup a BarCamp organization about Jquerry._
 
       Corresponding action sequence by use cases:
