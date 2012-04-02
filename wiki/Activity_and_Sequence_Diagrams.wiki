@@ -6,7 +6,7 @@
 
 ==Activity Diagram for Scenario #1==
 
-[http://cmpe352spring2012group4.googlecode.com/files/activity1.jpg]
+[http://cmpe352spring2012group4.googlecode.com/files/activity1version2%20%281%29.jpg]
 
 ==Activity Diagram for Scenario #2==
 
