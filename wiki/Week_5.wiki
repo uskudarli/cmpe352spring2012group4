@@ -42,7 +42,7 @@ Hakan, Başak, Gül, Semih, Enes, Tuncay, Ayşegül
 
 *Decisions*
 
-  * Ayşegül is responsible for improving the 1st scenario.
+  * Ayşegül is responsible for improving the 1st scenario and adding the new use cases that we decided on.
 
   * Başak is responsible for writing meeting report.
 
