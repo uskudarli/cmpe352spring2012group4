@@ -32,7 +32,7 @@
 
 [#UC12-Follow] 
 
-[#UC13-Authorize Follow] 
+
 
 
 ----
