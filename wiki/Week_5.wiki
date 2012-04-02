@@ -1,0 +1,36 @@
+= 02.04.2012 =
+
+
+
+*Participants*
+
+Hakan, Başak, Gül, Semih, Enes, Sabri, Tuncay, Ayşegül
+
+
+*Summary*
+
+  * We did some research on "Activity Diagrams" and "Sequence Diagrams".
+
+  * We found some examples.
+
+  * We improved our first scenario which wasn't too detailed.
+
+  * We drew the first sequence diagram on paper.
+
+  * We drew the first activity diagram on paper.
+
+  * We shared the rest of the work.
+
+*Decisions*
+
+  * Ayşegül is responsible for improving the 1st scenario.
+
+  * Başak is responsible for entering the issues for each person and writing meeting report.
+
+  * Gül is responsible for updating the 1st activity diagram by using a tool.
+
+  * Semih and Enes are responsible for preparing a presentation document.
+
+  * Tuncay is responsible for updating the 1st sequence diagram by using a tool.
+
+  * Hakan is responsible for drawing the system architecture diagram by using a tool.
