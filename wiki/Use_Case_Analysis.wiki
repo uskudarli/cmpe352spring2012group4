@@ -334,14 +334,53 @@
 
 === UC12-Follow === 
 
+*Name: * Follow
+
+*Actors: * All users
+
+*Goal:* To be a follower of a user. 
+
+*Preconditions: *
+
+     •The registered user or the admin should log in the system.
+ 
+*Steps: *
+
+     • User will go to page of the other user who he/she wants to follow.
+
+     • User will click on the follow request button.
+
+*Postconditions:* 
+
+     • A follow request notification will appear on the home page of the other user who is wanted to be followed.
 
 
+=== UC13-Answer follower request ===
+*Name: * Answer follower request 
+
+*Actors: * All users
+
+*Goal:* To accept or reject a user's follow request. 
+
+*Preconditions: *
+
+     •The registered user or the admin should log in the system.
+
+     •The registered user or the admin should have a follow notification.
 
 
+ 
+*Steps: *
 
+     • User will go to home page. 
 
+     • User will click on the follow request notification.
 
-=== UC13-Authorize Follow ===
+     • User will click either on the accept button or reject button.
+
+*Postconditions:* 
+
+     • A notification will appear on the home page of the other user who wants to follow the user.
 
 ----
 
