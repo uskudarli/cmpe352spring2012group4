@@ -13,7 +13,7 @@ Hakan, Başak, Gül, Semih, Enes, Tuncay, Ayşegül
 
 *Decisions*
 
-  * To understand the topic more wisely we decided to do some research about system architectures, components and communications of the system from the course book and the internet until monday.
+  * To understand the topic more wisely we decided to research about system architectures, components and communications of the system from the course book and on the internet until monday.
 
 
 
