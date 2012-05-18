@@ -1,0 +1,1 @@
+slm merhaba üstüme gelmeyin
