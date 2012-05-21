@@ -16,4 +16,8 @@ public class BaseClassTest {
 		assertTrue(BaseClass.testPassword("password", "password"));
 	}
 
+	@Test
+	public void testCheckNumberOfFollowers() {
+		assertTrue(BaseClass.CheckNumberOfFollowers(500));
+	}
 }
