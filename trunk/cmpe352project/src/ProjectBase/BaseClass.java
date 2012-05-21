@@ -6,19 +6,18 @@ public class BaseClass {
   {
      System.out.println("Hello World from Gul");
      System.out.println("Hello World from Semih");
+     System.out.println("Hello World from Tuncay");
 //each person should modify this line with his/her name
   }
 
 	public static boolean testEmail(String email)
 	{
-	 	boolean retval = email.contains("@");
-		 return retval;
+	 	return email.contains("@");
   }
 
 	public static boolean testPassword(String input, String password)
 	{
-		boolean retval = input.equals(password);
-		return retval;
+		return input.equals(password);
   }
 
   public static boolean CheckNumberOfFollowers(int numberOfFollowers)
