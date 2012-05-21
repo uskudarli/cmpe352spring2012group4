@@ -1,0 +1,28 @@
+!SESSION 2012-05-21 16:15:45.912 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 0 2012-05-21 16:16:18.057
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2012-05-21 16:16:18.057
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.m2e.core.ui', id='org.eclipse.m2e.core.ui.command.addDependency', keySequence='Ctrl+Shift+D'
+!SUBENTRY 1 org.eclipse.ui 2 0 2012-05-21 16:16:18.057
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.m2e.core.ui', id='org.eclipse.m2e.core.ui.command.addPlugin', keySequence='Ctrl+Shift+P'
+!SESSION 2012-05-21 16:19:40.758 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 2 0 2012-05-21 16:19:45.411
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2012-05-21 16:19:45.411
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.m2e.core.ui', id='org.eclipse.m2e.core.ui.command.addDependency', keySequence='Ctrl+Shift+D'
+!SUBENTRY 1 org.eclipse.ui 2 0 2012-05-21 16:19:45.411
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.m2e.core.ui', id='org.eclipse.m2e.core.ui.command.addPlugin', keySequence='Ctrl+Shift+P'
