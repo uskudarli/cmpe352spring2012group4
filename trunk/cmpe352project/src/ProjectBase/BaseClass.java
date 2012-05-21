@@ -5,6 +5,7 @@ public class BaseClass {
   public static void main (String args[])
   {
      System.out.println("Hello World from Basak");
+//each person should modify this line with his/her name
   }
 
 	public static boolean testEmail(String email)
