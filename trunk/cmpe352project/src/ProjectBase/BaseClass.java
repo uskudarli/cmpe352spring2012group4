@@ -4,7 +4,7 @@ public class BaseClass {
 
   public static void main (String args[])
   {
-     System.out.println("Hello World from Basak");
+     System.out.println("Hello World from Gul");
 //each person should modify this line with his/her name
   }
 
