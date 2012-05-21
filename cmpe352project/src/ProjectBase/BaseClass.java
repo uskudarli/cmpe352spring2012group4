@@ -18,7 +18,7 @@ public class BaseClass {
 	public static boolean testPassword(String input, String password)
 	{
 		boolean retval = input.equals(password);
-		return false;
+		return retval;
   }
 
   public static boolean CheckNumberOfFollowers(int numberOfFollowers)
