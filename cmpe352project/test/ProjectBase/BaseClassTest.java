@@ -11,4 +11,9 @@ public class BaseClassTest {
 		assertTrue(BaseClass.testEmail("aa@aa.com"));
 	}
 
+	@Test
+	public void testTestPassword() {
+		assertTrue(BaseClass.testPassword("password", "password"));
+	}
+
 }
