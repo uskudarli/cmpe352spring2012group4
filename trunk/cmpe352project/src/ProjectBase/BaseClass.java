@@ -6,7 +6,8 @@ public class BaseClass {
   {
      System.out.println("Hello World from Gul");
      System.out.println("Hello World from Semih");
-     System.out.println("Hello World from Tuncay");
+     System.out.println("Hello Tuncay");
+	 //hello Tuncay 
 //each person should modify this line with his/her name
   }
 
