@@ -65,7 +65,7 @@
 
   _ 2.1.7.1. A member shall search for a person, survey, interest, discussion topic._
 
-  _ 2.1.7.2. A member shall filter the result of search by using advanced search by using search tags and category tags._
+  _ 2.1.7.2. A member shall filter the result of search by using advanced search.
 
 *   2.1.8. Browsing*
 
