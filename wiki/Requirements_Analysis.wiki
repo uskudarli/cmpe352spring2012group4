@@ -111,7 +111,9 @@
 
   2.1.13.1 The guest user shall register the system with username, password, and email address.
 
-  2.1.13.2 The length of the password shall be between 6-12 characters.
+  2.1.13.2 The length of the username shall be 20 characters at maximum.
+
+  2.1.13.3 The length of the password shall be between 6-12 characters.
 
 
 
