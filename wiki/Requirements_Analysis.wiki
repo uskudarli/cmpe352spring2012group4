@@ -28,9 +28,9 @@
 *   2.1.3. Creation of a space for special interests*
 	2.1.3.1. Each member profile shall include a space for special interests specific to that person.
 
-	_2.1.3.2. Each member shall be able to create a special interest page by specifying its name, related categories by pre-defined category tags and related search tags of his/her choice._
+	2.1.3.2. Each member shall be able to create a special interest page by specifying its name, related categories by pre-defined category tags and related search tags of his/her choice.
 
-	_2.1.3.3. Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers)._
+	2.1.3.3. Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
 
 
 *   2.1.4. Discussion forum*
@@ -63,7 +63,7 @@
 
 *   2.1.7. Search/Advanced search*
 
-  _ 2.1.7.1. A member shall search for a person, survey, interest, discussion topic._
+   2.1.7.1. A member shall search for a person, survey, interest, discussion topic.
 
   _ 2.1.7.2. A member shall filter the result of search by using advanced search.
 
@@ -79,7 +79,7 @@
 
 *   2.1.9. Notification from subscriptions*
    
-  _ 2.1.9.1. There will be a page for each user where he/she will be able to check his notification list. _
+   2.1.9.1. There will be a page for each user where he/she will be able to check his notification list. 
 
   _ 2.1.9.2. The user will be able to see the number of unread notifications on his/her home page._
 
@@ -112,7 +112,7 @@
 
 *   2.2.1. Operating & Platform constraints* 
 
- _ 2.2.1.1. The application should be supported by Google Chrome and Mozilla Firefox._
+  2.2.1.1. The application should be supported by Google Chrome and Mozilla Firefox.
 
 *   2.2.2. Modifiability *
 
@@ -140,24 +140,24 @@
 
 *   2.2.8. Response Time *
 
-  _2.2.8.1. Response time of the wep pages and database queries should be less than five seconds with an average quality Internet connection._
+  2.2.8.1. Response time of the wep pages and database queries should be less than five seconds with an average quality Internet connection.
 
 *   2.2.9. Reliability *
 
-  _2.2.9.1. All the records and database shall be copied for possible failures and the copied data should be updated periodically(daily or after some amount of changes)._
+  2.2.9.1. All the records and database shall be copied for possible failures and the copied data should be updated periodically(daily or after some amount of changes).
 
 *   2.2.11. Expected Activity *
 
-  _2.2.11.1. Since the CmpE community is limited in number, user transaction per second will have an upper bound of the number of the people in the department, assuming a user can make one transaction per second._
+  2.2.11.1. Since the CmpE community is limited in number, user transaction per second will have an upper bound of the number of the people in the department, assuming a user can make one transaction per second.
 
 *   2.2.12. System Availablity *
 
-  _2.2.12.1. The user interface of the system shall be supported by Mozilla Firefox and Google Chrome._
+  2.2.12.1. The user interface of the system shall be supported by Mozilla Firefox and Google Chrome.
 
-  _2.2.12.2. The user interface of the system shall be available during day and the maintanance shall be performed in the nights._
+  2.2.12.2. The user interface of the system shall be available during day and the maintanance shall be performed in the nights._
 
 *   2.2.13. Physical Requirements *
 
-  _2.2.13.1. System shall be written using an IDE in Windows or Linux operating systems._
+  2.2.13.1. System shall be written using an IDE in Windows or Linux operating systems.
 
-  _2.2.13.2. System shall be written by using Java and MySql programming languages._
+  2.2.13.2. System shall be written by using Java and MySql programming languages.
