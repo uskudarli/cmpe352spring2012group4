@@ -28,7 +28,7 @@
 *   2.1.3. Creation of a space for special interests*
 	2.1.3.1. Each member profile shall include a space for special interests specific to that person.
 
-	2.1.3.2. Each member shall be able to create a special interest page by specifying its name, related categories by pre-defined category tags and related search tags of his/her choice.
+	2.1.3.2. Each member shall be able to create a special interest page by specifying its name, related categories by pre-defined or user-defined tags.
 
 	2.1.3.3. Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
 
