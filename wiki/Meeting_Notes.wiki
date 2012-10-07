@@ -1,0 +1,12 @@
+#notes taken during meetings of the entire term
+
+= Meeting Notes = 
+
+==03.10.2012==
+Online meeting on our facebook group
+==04.10.2012==
+Weekly meeting after the lecture at school. Database design.
+==05.10.2012==
+Rendez-vous with the teacher and the assistant to get feedback.
+==07.10.2012==
+Meeting at school & on skype to update requirements regarding the teachers' feedback. Discussion on how to differ the site from Facebook. New features. (i.e. Today's Activity, Most Active Person of the Interest, Limiting posts per minute, connecting Facebook, Twitter and other social media sites to get information about the user/crawling, asking the user her interests on registration...)
