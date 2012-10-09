@@ -2,7 +2,7 @@
 
 ==1. General description==
 
-   The application shall be a social web application to create an environment, where CMPE community can express and discover matters of interest – academic or otherwise.
+   The application shall be a social web application to create an environment, where CMPE community can express and discover matters of interest – academic or otherwise through an intelligent recommendation engine.
 
    This place shall evolve into an archive of useful information. 
 
@@ -10,111 +10,101 @@
 
 ===2.1. FUNCTIONAL REQUIREMENTS===
 
-*   2.1.1. Member profiles*
+2.1.1. User profiles
+2.1.1.1. Each user shall have their information fields such as: Name, Title(student, instructor, graduate…), Picture (optional), Birthday (optional), E-mail, Telephone(optional), Gender(optional), Interests, Connections, Education, Work(optional), Graduation Year etc.
+2.1.1.2. Each user shall have an activity feed where her posts in Interests, her Voice updates, her participations to public Events and her contributions to Discussions and Surveys are displayed in a chronological order.
+2.1.1.3. Voice: Voice is a personal message that a user can post on her activity feed and which are visible either to her friends or entire community. Each user shall post Voices in her user profile. The motto for posting a Voice is “Raise Your Voice!”.
+2.1.1.3.1 Voices should be commentable by connections.
+2.1.1.4. Each user shall have a social feed where contributions fetched from her social network accounts (i.e. Twitter, Foursquare, Instagram). These contributions should be visible to community friends and to everyone in the community if they are public.
 
-   2.1.1.1. Each member shall have their information fields such as: Name, Title(student, instructor, graduate…), Birthday _(optional)_, E-mail, Telephone_(optional)_, Gender_(optional)_, Interests, Connections, Education, Work_(optional)_, Graduation Year etc.
+2.1.2. Home page
+2.1.2.1. The user shall be directed to the home page after logging in.
+2.1.2.2. Latest Discussions’ titles associated with user’s Interests, current Events associated with user’s Interests, latest Voices of friends, Occasions of the day, posts in user’s Interests and latest Survey questions associated with user’s Interests should appear on her home page.
+2.1.2.3. There should be tiles for inbox, connections, notifications, Events, Discussions, Surveys, Interests and Occasions. These tiles should direct the user to pages with further relevant detail (e.g. Interests should take the user to the page where her Interests are listed).
 
-*   2.1.2. Home page*
+2.1.3. Interests
+2.1.3.1. Each user shall be able to create a special Interest page by specifying its name, choosing its category and defining related tags.
+2.1.3.1.1. A tag is a user-defined string associated with the Interest. But if a tag already exists with the same name, then the user shall choose that pre-existing tag.
+2.1.3.1.2. There shall be predefined categories from which user shall choose just one for each Interest that she created. (e.g. Sports, Arts, Academic, Science, Other...)
+2.1.3.2. All Interest pages’ contents are visible to registered users.
+2.1.3.3. Users shall be able to subscribe to any Interest.
+2.1.3.4. The subscribers of the Interest shall be able to post to Interest’s page.
+2.1.3.5. Each post in Interest page should be commentable by Interest subscribers.
+2.1.3.6. Each Interest page should contain links to all Surveys, Events and Discussions associated with this Interest.
+2.1.3.7 Besides the user contributions (posts), each Interest page should contain latest Surveys, Events and Discussions associated with this Interest.
 
-   2.1.2.1. The user shall go to the home page after logging in.
+2.1.4. Discussions
+2.1.4.1. A user should be able to start a new discussion topic by entering a question.
+2.1.4.1.1. The discussion owner shall choose the related Interests to specify the target audience.
+2.1.4.2. All users should be able to reply.
 
-   2.1.2.2. Latest discussions, current events, new posts to various interests should appear on the home page.
+2.1.5. Surveys
+2.1.5.1. A user should be able to create a survey by entering a question and corresponding answers.
+2.1.5.1.1. Answers shall have two types: radiobuttons (one answer), checkboxes(multiple answers).
+2.1.5.1.2. Answers are limited to 25 maximum.
+2.1.5.1.3. The user shall choose the related interests to specify the target audience.
+2.1.5.1.4. The user shall specify the duration of the survey.
+2.1.5.2. The owner of the survey should specify whether the results of the survey are visible.
+2.1.5.3. All users should be able to answer but only once.
 
-   2.1.2.3. The posts to interests that appear on the home page should be the ones followed by the specific user.
+2.1.6. Events
+2.1.6.1. A user should be able to create an Event.
+2.1.6.1.1. The creator of the Event shall decide the basic information about the event such as date, time interval and place.
+2.1.6.1.2. The creator shall choose the related Interests to specify the target audience.
+2.1.6.4. A user may declare that she will attend the Event, thus she becomes an attendee of that Event.
+2.1.6.5. A user shall invite other users to an event.
+2.1.6.6. The attendees of an event should be able to post content.
 
-   2.1.2.4. There should be a vertical section where there are tabs such as inbox, connections, notifications, events, discussions, surveys, interests.
+2.1.7. Occasions
+     2.1.7.1. A user should be able to create an Occasion.
+     2.1.7.1.1. As a user creates an Occasion, she can set the publish date as either today or tomorrow.
+     2.1.7.2. An Occasion is a daily event that lasts 1 day.
+     2.1.7.3. The aim of Occasions is to gather some community users on a daily basis. (e.g. Meeting for lunch, accompanying each other for the way to/from school etc...)
+     2.1.7.4. An Occasion becomes inactive at midnight. By becoming inactive it’s meant that it won’t be visible on the home page.
+     2.1.7.5. In Occasions page, all users can see the previous Occasions and current Occasions.
 
+2.1.8. Messaging
+     2.1.8.1. Users should be able to send messages to each other.
+     2.1.8.2. Users should be able to see the number of unread messages on her homepage.
 
-*   2.1.3. Creation of a space for special interests*
-	2.1.3.1. Each member profile shall include a space for special interests specific to that person.
+2.1.9. Search/Advanced search
+2.1.9.1. A user shall search for a person, Survey, Interest, Discussion, Event and Occasion by title.
+2.1.9.2. A user shall filter the result of search by using advanced search.
+2.1.9.2.1 For a person, a user should be able to search for a name, title, birthday, e-mail, telephone, gender, Interests, education, work, graduation year.
+2.1.9.2.2 For Survey, a user should be able to search a Survey associated with a specific Interest or contains any given word.
+2.1.9.2.3 For Interest, a user should be able to search for an Interest with a given category and tagged with a given word.
+2.1.9.2.4 For Discussion, a user should be able to search for a Discussion associated with a specific Interest or a Discussion whose title contains the given word.
+2.1.9.2.5 For Event, a user should be able to search for an Event that’s happening at a certain date, Event that’s associated with a specific Interest of Event whose title contains the given word.
+2.1.9.2.6 For Occasion, a user should be able to search for the title and content of an Occasion with the given word.
 
-	2.1.3.2. Each member shall be able to create a special interest page by specifying its name, related categories by pre-defined or user-defined tags.
+2.1.10. Notification from subscriptions
+2.1.10.1. There will be a page for each user where she will be able to check her notification list.
+2.1.10.2. The user shall be able to determine which notifications to avoid via settings page.
+2.1.10.3. A user shall get the notifications for the posts on her subscribed Interests.
+2.1.10.4. A user shall get the notifications for the replies about the Discussion she created.
+2.1.10.5. A user shall get the notifications for the result of the Surveys she created.
+2.1.10.6. A user shall get the notifications for the connection requests.
+2.1.10.7. A user shall get the notifications for the for the comments to her posts on Interest pages, on Event pages and her Voices.
+2.1.10.8. A user shall get the notifications for the Event invitations.
+2.1.10.9. A user shall get the reporting notifications if she is an administrator.
+2.1.10.10. A subscriber of an Interest shall get the notifications for the creation of an Event, a Discussion and a Survey associated with that Interest.
 
-	2.1.3.3. Each member should be able to decide the level of publicity of his/her special interests information(i.e. his/her information can be viewed either by all people or by a specific group of people like followers).
+2.1.11. Reporting
+     2.1.11.1. A user shall be able to report an Interest, a post to an Interest, a Voice, a Discussion, a reply to a discussion, a Comment, an Event, a post to an Event, a Survey, a Profile.
+     2.1.11.2. An administrator shall remove the reported content if she agrees that it is an abuse.
+     2.1.11.3. An administrator shall contact the report owner if she does not agree or does not understand why it is an abuse.
 
+2.1.12. Settings
+2.1.12.1. There shall be account and privacy settings sections.
 
-*   2.1.4. Discussion forum*
+2.1.13. Help
+2.1.13.1. There should be a documentation about how to use the application.
 
-   2.1.4.1. A member should be able to start a new discussion topic.
-
-        2.1.4.1.1. The member shall write a related topic about his/her post.
-
-        2.1.4.1.2. The member shall choose the related interests to specify the target audience.
-
-        2.1.4.1.3. The member shall post the content.
-
-   2.1.4.2. A member should be able to reply.
-
-*   2.1.5. Surveys*
-
-   2.1.5.1. A member should be able to create a survey.
-
-     2.1.5.1.1. The member shall choose the related interests to specify the target audience.
-
-     2.1.5.1.2.  The member shall specify the duration of the survey.
-
-   2.1.5.2. The owner of the survey should specify whether and when the results of the survey are visible.
-
-*   2.1.6. Subscription to areas of interests and forums*
-
-   2.1.6.1. A member shall be able to subscribe to areas of interests.
-
-   2.1.6.2. A member shall be able to subscribe to the topics in forums.
-
-*   2.1.7. Search/Advanced search*
-
-   2.1.7.1. A member shall search for a person, survey, interest, discussion topic.
-
-  _ 2.1.7.2. A member shall filter the result of search by using advanced search.
-
-*   2.1.8. Browsing*
-
-   2.1.8.1. Users should be able to view the website's homepage.
-
-   2.1.8.2. Users should be able to view the forums, surveys and discussions.
-
-   2.1.8.3. Users should be able to view the other members' profiles if allowed.
-
-   2.1.8.4. The system shall redirect the users when a link of a different website is clicked by them.
-
-*   2.1.9. Notification from subscriptions*
-   
-   2.1.9.1. There will be a page for each user where he/she will be able to check his notification list. 
-
-   2.1.9.2. The user will be able to see the number of unread notifications on his/her home page.
-
-   2.1.9.3. A member shall get the notifications for the newest posts about his/her subscribed interests.
-
-  2.1.9.4. A member shall get the notifications for the newest comments about the topics he/she created.
-
-  2.1.9.5. A member shall get the notifications for the result of the surveys he/she created.
-
-*   2.1.10. Events*
-
-  2.1.10.1. A member should be able to create an event.
-	
-  2.1.10.2. The creator of the event shall decide the information about the event like time,place,duration,other details.
-	
-  2.1.10.3. The creator of the event  shall decide the privacy level of the event like whether it will be secret or public and whether it will be invite-only or every guest will be able to invite other members. 
-
-  2.1.10.4. The members of the event should be able to write on the event page,add links,upload photos or videos.
-
-*   2.1.11. Settings*
-
-  2.1.11.1. There shall be account and privacy settings sections.
-
-*   2.1.12. Help*
-
-  2.1.12.1. There should be a documentation about how to use the application.
-
-*   2.1.13 Registration process
-
-  2.1.13.1 The guest user shall register the system with username, password, and email address.
-
-  2.1.13.2 The length of the username shall be 20 characters at maximum.
-
-  2.1.13.3 The length of the password shall be between 6-12 characters.
-
+2.1.14. Registration process
+2.1.14.1 The guest user shall register the system with username, password, and email address.
+2.1.14.2 The length of the username shall be 20 characters at maximum.
+2.1.14.3. The username should be unique in the system.
+2.1.14.4 The length of the password shall be between 6-12 characters.
 
 
 ===2.2 NON-FUNCTIONAL REQUIREMENTS===
