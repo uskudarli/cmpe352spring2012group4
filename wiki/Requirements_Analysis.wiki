@@ -128,7 +128,7 @@
 
   2.1.9.2.6 For Occasion, a user should be able to search for the title and content of an Occasion with the given word.
 
-*   2.1.10. Notification from subscriptions   *
+*   2.1.10. Notifications   *
 
   2.1.10.1. There will be a page for each user where she will be able to check her notification list.
 
