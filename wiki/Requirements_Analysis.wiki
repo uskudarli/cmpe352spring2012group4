@@ -61,70 +61,119 @@
 2.1.5. Surveys
 
 2.1.5.1. A user should be able to create a survey by entering a question and corresponding answers.
+
 2.1.5.1.1. Answers shall have two types: radiobuttons (one answer), checkboxes(multiple answers).
+
 2.1.5.1.2. Answers are limited to 25 maximum.
+
 2.1.5.1.3. The user shall choose the related interests to specify the target audience.
+
 2.1.5.1.4. The user shall specify the duration of the survey.
+
 2.1.5.2. The owner of the survey should specify whether the results of the survey are visible.
+
 2.1.5.3. All users should be able to answer but only once.
 
 2.1.6. Events
+
 2.1.6.1. A user should be able to create an Event.
+
 2.1.6.1.1. The creator of the Event shall decide the basic information about the event such as date, time interval and place.
+
 2.1.6.1.2. The creator shall choose the related Interests to specify the target audience.
+
 2.1.6.4. A user may declare that she will attend the Event, thus she becomes an attendee of that Event.
+
 2.1.6.5. A user shall invite other users to an event.
+
 2.1.6.6. The attendees of an event should be able to post content.
 
 2.1.7. Occasions
+
      2.1.7.1. A user should be able to create an Occasion.
+
      2.1.7.1.1. As a user creates an Occasion, she can set the publish date as either today or tomorrow.
+
      2.1.7.2. An Occasion is a daily event that lasts 1 day.
+
      2.1.7.3. The aim of Occasions is to gather some community users on a daily basis. (e.g. Meeting for lunch, accompanying each other for the way to/from school etc...)
+
      2.1.7.4. An Occasion becomes inactive at midnight. By becoming inactive it’s meant that it won’t be visible on the home page.
+
      2.1.7.5. In Occasions page, all users can see the previous Occasions and current Occasions.
 
 2.1.8. Messaging
+
      2.1.8.1. Users should be able to send messages to each other.
+
      2.1.8.2. Users should be able to see the number of unread messages on her homepage.
 
+
 2.1.9. Search/Advanced search
+
 2.1.9.1. A user shall search for a person, Survey, Interest, Discussion, Event and Occasion by title.
+
 2.1.9.2. A user shall filter the result of search by using advanced search.
-2.1.9.2.1 For a person, a user should be able to search for a name, title, birthday, e-mail, telephone, gender, Interests, education, work, graduation year.
+
+2.1.9.2.1 For a person, a user should be able to search for a name, title, birthday, e-mail, telephone, gender, 
+Interests, education, work, graduation year.
+
 2.1.9.2.2 For Survey, a user should be able to search a Survey associated with a specific Interest or contains any given word.
+
 2.1.9.2.3 For Interest, a user should be able to search for an Interest with a given category and tagged with a given word.
+
 2.1.9.2.4 For Discussion, a user should be able to search for a Discussion associated with a specific Interest or a Discussion whose title contains the given word.
+
 2.1.9.2.5 For Event, a user should be able to search for an Event that’s happening at a certain date, Event that’s associated with a specific Interest of Event whose title contains the given word.
+
 2.1.9.2.6 For Occasion, a user should be able to search for the title and content of an Occasion with the given word.
 
 2.1.10. Notification from subscriptions
+
 2.1.10.1. There will be a page for each user where she will be able to check her notification list.
+
 2.1.10.2. The user shall be able to determine which notifications to avoid via settings page.
+
 2.1.10.3. A user shall get the notifications for the posts on her subscribed Interests.
+
 2.1.10.4. A user shall get the notifications for the replies about the Discussion she created.
+
 2.1.10.5. A user shall get the notifications for the result of the Surveys she created.
+
 2.1.10.6. A user shall get the notifications for the connection requests.
+
 2.1.10.7. A user shall get the notifications for the for the comments to her posts on Interest pages, on Event pages and her Voices.
+
 2.1.10.8. A user shall get the notifications for the Event invitations.
+
 2.1.10.9. A user shall get the reporting notifications if she is an administrator.
+
 2.1.10.10. A subscriber of an Interest shall get the notifications for the creation of an Event, a Discussion and a Survey associated with that Interest.
 
 2.1.11. Reporting
+
      2.1.11.1. A user shall be able to report an Interest, a post to an Interest, a Voice, a Discussion, a reply to a discussion, a Comment, an Event, a post to an Event, a Survey, a Profile.
+
      2.1.11.2. An administrator shall remove the reported content if she agrees that it is an abuse.
+
      2.1.11.3. An administrator shall contact the report owner if she does not agree or does not understand why it is an abuse.
 
 2.1.12. Settings
+
 2.1.12.1. There shall be account and privacy settings sections.
 
 2.1.13. Help
+
 2.1.13.1. There should be a documentation about how to use the application.
 
 2.1.14. Registration process
+
 2.1.14.1 The guest user shall register the system with username, password, and email address.
+
 2.1.14.2 The length of the username shall be 20 characters at maximum.
+
 2.1.14.3. The username should be unique in the system.
+
 2.1.14.4 The length of the password shall be between 6-12 characters.
 
 
