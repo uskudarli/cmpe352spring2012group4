@@ -220,7 +220,7 @@
 
 *   2.2.8. Response Time *
 
-  2.2.8.1. Response time of the wep pages and database queries should be less than ten seconds with an average quality Internet connection.
+  2.2.8.1. Response time of the web pages and database queries should be less than ten seconds with an average quality Internet connection.
 
 *   2.2.9. Reliability *
 
