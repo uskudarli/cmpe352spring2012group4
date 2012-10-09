@@ -11,34 +11,55 @@
 ===2.1. FUNCTIONAL REQUIREMENTS===
 
 2.1.1. User profiles
+
 2.1.1.1. Each user shall have their information fields such as: Name, Title(student, instructor, graduate…), Picture (optional), Birthday (optional), E-mail, Telephone(optional), Gender(optional), Interests, Connections, Education, Work(optional), Graduation Year etc.
+
 2.1.1.2. Each user shall have an activity feed where her posts in Interests, her Voice updates, her participations to public Events and her contributions to Discussions and Surveys are displayed in a chronological order.
+
 2.1.1.3. Voice: Voice is a personal message that a user can post on her activity feed and which are visible either to her friends or entire community. Each user shall post Voices in her user profile. The motto for posting a Voice is “Raise Your Voice!”.
+
 2.1.1.3.1 Voices should be commentable by connections.
+
 2.1.1.4. Each user shall have a social feed where contributions fetched from her social network accounts (i.e. Twitter, Foursquare, Instagram). These contributions should be visible to community friends and to everyone in the community if they are public.
 
 2.1.2. Home page
+
 2.1.2.1. The user shall be directed to the home page after logging in.
+
 2.1.2.2. Latest Discussions’ titles associated with user’s Interests, current Events associated with user’s Interests, latest Voices of friends, Occasions of the day, posts in user’s Interests and latest Survey questions associated with user’s Interests should appear on her home page.
+
 2.1.2.3. There should be tiles for inbox, connections, notifications, Events, Discussions, Surveys, Interests and Occasions. These tiles should direct the user to pages with further relevant detail (e.g. Interests should take the user to the page where her Interests are listed).
 
 2.1.3. Interests
+
 2.1.3.1. Each user shall be able to create a special Interest page by specifying its name, choosing its category and defining related tags.
+
 2.1.3.1.1. A tag is a user-defined string associated with the Interest. But if a tag already exists with the same name, then the user shall choose that pre-existing tag.
+
 2.1.3.1.2. There shall be predefined categories from which user shall choose just one for each Interest that she created. (e.g. Sports, Arts, Academic, Science, Other...)
+
 2.1.3.2. All Interest pages’ contents are visible to registered users.
+
 2.1.3.3. Users shall be able to subscribe to any Interest.
+
 2.1.3.4. The subscribers of the Interest shall be able to post to Interest’s page.
+
 2.1.3.5. Each post in Interest page should be commentable by Interest subscribers.
+
 2.1.3.6. Each Interest page should contain links to all Surveys, Events and Discussions associated with this Interest.
+
 2.1.3.7 Besides the user contributions (posts), each Interest page should contain latest Surveys, Events and Discussions associated with this Interest.
 
 2.1.4. Discussions
+
 2.1.4.1. A user should be able to start a new discussion topic by entering a question.
+
 2.1.4.1.1. The discussion owner shall choose the related Interests to specify the target audience.
+
 2.1.4.2. All users should be able to reply.
 
 2.1.5. Surveys
+
 2.1.5.1. A user should be able to create a survey by entering a question and corresponding answers.
 2.1.5.1.1. Answers shall have two types: radiobuttons (one answer), checkboxes(multiple answers).
 2.1.5.1.2. Answers are limited to 25 maximum.
