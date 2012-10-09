@@ -22,6 +22,8 @@
 
   2.1.1.4. Each user shall have a social feed where contributions fetched from her social network accounts (i.e. Twitter, Foursquare, Instagram). These contributions should be visible to community friends and to everyone in the community if they are public.
 
+  2.1.1.5. Each user shall be able to connect the system with her Facebook account in order to provide information about herself through her 'like's. Her publications on Facebook will not be shared on the system. It shall only be used with the aim of better recommending Interests.
+
 *   2.1.2. Home page   *
 
   2.1.2.1. The user shall be directed to the home page after logging in.
@@ -175,6 +177,14 @@
   2.1.14.4 The length of the password shall be between 6-12 characters.
 
   2.1.14.5. The system will ask the user several questions to get better knowledge of her interests.
+
+*   2.1.15. Recommendation   *
+
+  2.1.15.1. The system should recommend the user other people with similar Interests to create connections. (using Interest match)
+
+  2.1.15.2. The system should recommend the user Interests that she might be interested in. (using tag match)
+
+  2.1.15. The system should recommend the user to create a new Interest that she might be interested in. (using Facebook 'like's)
 
 ===2.2 NON-FUNCTIONAL REQUIREMENTS===
 
