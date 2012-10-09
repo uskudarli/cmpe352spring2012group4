@@ -2,7 +2,7 @@
 
 ==Project Description==
 
-We will create a social web application to create an environment, where CMPE community can express and discover matters of interest -- academic or otherwise. This place will evolve into an archive of useful information.
+We will create a social web application to create an environment, where CMPE community can express and discover matters of interest -- academic or otherwise through an intelligent recommendation engine. This place will evolve into an archive of useful information.
 
 Our application support the following:
 
