@@ -240,4 +240,4 @@
 
   2.2.13.1. System shall be written using an IDE in Windows, OS X or Linux operating systems.
 
-  2.2.13.2. System shall be written by using Ruby on Rails..
+  2.2.13.2. System shall be written by using Ruby on Rails.
