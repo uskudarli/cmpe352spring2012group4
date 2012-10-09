@@ -10,7 +10,7 @@
 
 ===2.1. FUNCTIONAL REQUIREMENTS===
 
-2.1.1. User profiles
+*  2.1.1. User profiles  *
 
 2.1.1.1. Each user shall have their information fields such as: Name, Title(student, instructor, graduate…), Picture (optional), Birthday (optional), E-mail, Telephone(optional), Gender(optional), Interests, Connections, Education, Work(optional), Graduation Year etc.
 
