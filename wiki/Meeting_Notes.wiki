@@ -23,4 +23,7 @@
 ==11.10.2012==
 -Weekly meeting after the lecture.
 
--Introduction to Ruby on Rails.
+-Introduction to Ruby on Rails by Ilker at ETA-A6.
+
+==14.10.2012==
+-Starbucks/Taksim at 14:00.
