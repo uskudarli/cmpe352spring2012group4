@@ -86,9 +86,7 @@
 
   2.1.6.4. A user may declare that she will attend the Event, thus she becomes an attendee of that Event.
 
-  2.1.6.5. A user shall invite other users to an event.
-
-  2.1.6.6. The attendees of an event should be able to post content.
+  2.1.6.5. The attendees of an event should be able to post content.
 
 *   2.1.7. Occasions  *
 
