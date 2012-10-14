@@ -27,3 +27,13 @@
 
 ==14.10.2012==
 -Starbucks/Taksim at 14:00.
+TO-DO for thursday:
+*Ilker-> Rails & Subversion compatibility
+*Everybody-> complete setup
+*Prototype:
+   Ilker-> Homepage
+   Gul-> Profile
+   Aysegul-> Interest
+   Semih-> Event
+   Enes-> Messaging
+   Tuncay-> Help
