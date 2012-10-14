@@ -26,23 +26,41 @@
 -Introduction to Ruby on Rails by Ilker at ETA-A6.
 
 ==14.10.2012==
+
 -Starbucks/Taksim at 14:00.
+
 -We created our database design on paper.
+
 -We wrote 3 scenarios.
+
 -We started the setup but will continue at home because of slow connection.
+
 -We updated our project plan.
+
 -We distributed the work for thursday.
 
 TO-DO for thursday:
+
 +  Ilker-> Rails & Subversion compatibility
+
 +  Everybody-> complete setup
+
 +  Prototype:
+
    Ilker-> Homepage
+
    Gul-> Profile
+
    Aysegul-> Interest
+
    Semih-> Event
+
    Enes-> Messaging
+
    Tuncay-> Help
+
 +Ilker, Gul -> complete storyboards 
+
 +Semih -> complete presentation slides
+
 +Tuncay -> transfer Database design to computer (gliffy)
