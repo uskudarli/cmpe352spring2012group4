@@ -429,3 +429,5 @@
  * Ayşe *invites people* she already knew and registered to the system.
  
  * Users subscribed to "programming" and "Web applications" interests and users who are invited to the event will *get a notification about the event*.
+
+[http://cmpe352spring2012group4.googlecode.com/files/Storyboards%2018.10.2012.ppt *!!! NEW SCENARIOS !!!*]
