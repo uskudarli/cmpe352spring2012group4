@@ -79,15 +79,15 @@ TO-DO for thursday:
 
 == 06.11.2012 ==
 
-Tuncay: Discussion model, controller ve views
+  *  Tuncay: Discussion model, controller and views
 
-Enes: Survey model, controller ve views
+  *  Enes: Survey model, controller and views
 
-Semih: Event model, controller ve views
+  *  Semih: Event model, controller and views
 
-Gul: Occasion model, controller ve views
+  *  Gul: Occasion model, controller and views
 
-Aysegul: Message model, controller ve views
+  *  Aysegul: Message model, controller and views
 
 == 08.11.2012 ==
 
