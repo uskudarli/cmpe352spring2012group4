@@ -98,5 +98,4 @@ We solved our problems.
 Decided to fasten the development until next week (MILESTONE).
 
 == 15.11.2012 ==
-We have a meeting about implementation issues in the student lounge from 11:00 to 13:00.
-We examined http://railscasts.com for weekly rails tutorial videos.
+We have a meeting about implementation issues in the student lounge from 11:00 to 13:00.We also examined http://railscasts.com for weekly rails tutorial videos.
