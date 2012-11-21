@@ -79,7 +79,7 @@ TO-DO for thursday:
 
 == 06.11.2012 ==
 
-  *  Tuncay: Discussion model, controller and views
+  *  Tuncay: Message model, controller and views
 
   *  Enes: Survey model, controller and views
 
@@ -87,7 +87,7 @@ TO-DO for thursday:
 
   *  Gul: Occasion model, controller and views
 
-  *  Aysegul: Message model, controller and views
+  *  Aysegul: Discussion model, controller and views
 
 == 08.11.2012 ==
 
@@ -98,5 +98,5 @@ We solved our problems.
 Decided to fasten the development until next week (MILESTONE).
 
 == 15.11.2012 ==
-
+We have a meeting about implementation issues in the student lounge from 11:00 to 13:00.
 We examined http://railscasts.com for weekly rails tutorial videos.
