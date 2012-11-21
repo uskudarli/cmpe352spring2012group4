@@ -76,3 +76,27 @@ TO-DO for thursday:
 -SVN
 
 -New requirement: The similarities between pairs of people will be represented by a number out of 10. (according to mutual friends and mutual interests)
+
+== 06.11.2012 ==
+
+Tuncay: Discussion model, controller ve views
+
+Enes: Survey model, controller ve views
+
+Semih: Event model, controller ve views
+
+Gul: Occasion model, controller ve views
+
+Aysegul: Message model, controller ve views
+
+== 08.11.2012 ==
+
+Meeting at ETA-A6 from 16:00 to 20:00 for working together on implementation.
+
+We solved our problems.
+
+Decided to fasten the development until next week (MILESTONE).
+
+== 15.11.2012 ==
+
+We examined http://railscasts.com for weekly rails tutorial videos.
