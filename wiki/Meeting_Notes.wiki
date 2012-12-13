@@ -99,3 +99,15 @@ Decided to fasten the development until next week (MILESTONE).
 
 == 15.11.2012 ==
 We have a meeting about implementation issues in the student lounge from 11:00 to 13:00.We also examined http://railscasts.com for weekly rails tutorial videos.
+
+== 22.11.2012 ==
+
+Learned unit tests by watching tutorials and tried them.
+
+== 28.11.2012 ==
+
+Implemented together.
+
+== 13.12.2012 ==
+
+Implemented together. (Search, Messaging, Settings)
