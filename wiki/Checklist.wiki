@@ -1,0 +1,69 @@
+= CHECKLIST = 
+
+*Registration*
+
+  *  login
+
+  *  profile
+
+  *  login with Facebook
+
+*Users*
+
+  *  listing registered users
+
+*Profile*
+
+  *  edit profile
+
+  *  fetching Facebook profile picture
+
+  *  displaying connections
+
+  *  displaying subscribed interests
+
+*Connection*
+
+  *  adding a connection
+
+  *  replying to a connection request
+
+*Interest*
+
+  *  creating an interest
+
+  *  tagging an interest during creation
+
+  *  subscribing to an interest
+
+*Recommendation*
+
+  *  recommending a user
+
+  *  recommending an interest
+
+*Occasion*
+
+  *  creating an occasion
+
+  *  control of valid date during creation
+
+  *  listing upcoming occasions
+
+  *  listing missed occasions
+
+*Event*
+
+*Survey*
+
+*Discussion*
+
+*Home*
+
+  *  activity feed
+
+*Search*
+
+*Messaging*
+
+*Settings*
