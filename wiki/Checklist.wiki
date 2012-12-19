@@ -1,10 +1,12 @@
 = CHECKLIST = 
 
+== What we have done so far ==
+
 *Registration*
 
-  *  login
+  *  account creation
 
-  *  profile
+  *  login
 
   *  login with Facebook
 
@@ -21,6 +23,12 @@
   *  displaying connections
 
   *  displaying subscribed interests
+
+  *  displaying joined events
+
+  * entering voice
+
+  * feed
 
 *Connection*
 
@@ -44,26 +52,38 @@
 
 *Occasion*
 
-  *  creating an occasion
+  *  creating, editing, deleting an occasion
 
-  *  control of valid date during creation
-
-  *  listing upcoming occasions
-
-  *  listing missed occasions
+  *  listing upcoming and missed occasions
 
 *Event*
 
+  *  creating, editing, deleting an event
+
+  *  joining an event
+
 *Survey*
 
-*Discussion*
+  *  creating, editing, deleting a survey
 
 *Home*
 
   *  activity feed
+ 
+  *  links to Occasions, Events, Users, Interests and Surveys with the links of last five elements.
 
-*Search*
+*Advanced Search*
+
+  *  searching for a user
+
+  *  searching for an interest
+
+  *  ordering search results
 
 *Messaging*
 
-*Settings*
+  *  sending and receiving messages to and from friends
+
+*Discussion*
+  
+  * creating a discussion
