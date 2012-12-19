@@ -113,7 +113,7 @@
 
      •  The name of the interest will not be the same as an already-existing interest. The admin is responsible of making sure the interest names are proper (i.e. He may merge two similar interest pages).
 
-*Postconditions:*
+
 
 ===UC4-Subscribe to an interest===
 
