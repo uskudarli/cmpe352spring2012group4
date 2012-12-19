@@ -1,6 +1,6 @@
 After our long meeting on 18.12.2012, the decisions made are as follows:
 
-<h4>The last modifications with the implementation will be made until 20.12.2012</h4>
+<h4>The last modifications with the implementation will be made <font color="red">until 20.12.2012</font></h4>
 
 These will be for
 
