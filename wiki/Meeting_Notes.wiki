@@ -111,3 +111,7 @@ Implemented together.
 == 13.12.2012 ==
 
 Implemented together. (Search, Messaging, Settings)
+
+== 18.12.2012 == 
+
+Implemented together. Fixed some bugs. Planned the rest of the semester. Detailed decisions are [TO_DO here].
