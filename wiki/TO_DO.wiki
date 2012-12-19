@@ -16,7 +16,7 @@ These will be for
 
   * Messages module problem (a user cannot view other users at the moment)
 
-<h4>Each person will create a test plan for his/her own module until 21.12.2012. An example is sent by e-mail. The same format will be followed. A [https://docs.google.com/spreadsheet/ccc?key=0AqbdI1pXJ8GFdFVDeTlFSm1mc2NVVWxzUV90VWxEekE spreadsheet] which can be edited by every team members is shared.</h4>
+<h4>Each person will create a test plan for his/her own module until 21.12.2012. An example is sent by e-mail. The same format will be followed. A [https://docs.google.com/spreadsheet/ccc?key=0AqbdI1pXJ8GFdFVDeTlFSm1mc2NVVWxzUV90VWxEekE spreadsheet] which can be edited by all team members is shared.</h4>
 
 <h4>Each person will make a code review.</h4>
 
