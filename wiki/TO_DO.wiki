@@ -16,8 +16,8 @@ These will be for
 
   * Messages module problem (a user cannot view other users at the moment)
 
-Each person will create a test plan for his/her own module until 20.12.2012. An example is sent by e-mail. The same format will be followed.
+<h4>Each person will create a test plan for his/her own module until 20.12.2012. An example is sent by e-mail. The same format will be followed.</h4>
 
-Each person will make a code review.
+<h4>Each person will make a code review.</h4>
 
-Next week (24-31.12.2012), we will request several people to use our system and fill in the test documents. We will watch a few of them to observe which difficulties they encounter.
+<h4>Next week (24-31.12.2012), we will request several people to use our system and fill in the test documents. We will watch a few of them to observe which difficulties they encounter.</h4>
